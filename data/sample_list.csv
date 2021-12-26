@@ -1,0 +1,1576 @@
+country,location,lat,lon,year,sampleID,sampleNo,folder,picname
+France,Ile de Batz,48.75,-4.01,1972,1,1,France_Ile_de_Batz_1971,ID1-1
+France,Ile de Batz,48.75,-4.01,1972,1,2,France_Ile_de_Batz_1971,ID1-2
+France,Ile de Batz,48.75,-4.01,1972,1,3,France_Ile_de_Batz_1971,ID1-3
+France,Ile de Batz,48.75,-4.01,1972,1,4,France_Ile_de_Batz_1971,ID1-4
+France,Ile de Batz,48.75,-4.01,1972,1,5,France_Ile_de_Batz_1971,ID1-5
+France,Ile de Batz,48.75,-4.01,1972,1,6,France_Ile_de_Batz_1971,ID1-6
+France,Ile de Batz,48.75,-4.01,1972,1,7,France_Ile_de_Batz_1971,ID1-7
+France,Ile de Batz,48.75,-4.01,1972,1,8,France_Ile_de_Batz_1971,ID1-8
+France,Ile de Batz,48.75,-4.01,1972,1,9,France_Ile_de_Batz_1971,ID1-9
+France,Ile de Batz,48.75,-4.01,1972,1,10,France_Ile_de_Batz_1971,ID1-10
+France,Ile de Batz,48.75,-4.01,1972,1,11,France_Ile_de_Batz_1971,ID1-11
+France,Ile de Batz,48.75,-4.01,1972,1,12,France_Ile_de_Batz_1971,ID1-12
+France,Ile de Batz,48.75,-4.01,1972,1,13,France_Ile_de_Batz_1971,ID1-13
+France,Ile de Batz,48.75,-4.01,1972,1,14,France_Ile_de_Batz_1971,ID1-14
+France,Ile de Batz,48.75,-4.01,1972,1,15,France_Ile_de_Batz_1971,ID1-15
+France,Ile de Batz,48.75,-4.01,1972,1,16,France_Ile_de_Batz_1971,ID1-16
+France,Ile de Batz,48.75,-4.01,1972,1,17,France_Ile_de_Batz_1971,ID1-17
+France,Ile de Batz,48.75,-4.01,1972,1,18,France_Ile_de_Batz_1971,ID1-18
+France,Ile de Batz,48.75,-4.01,1972,1,19,France_Ile_de_Batz_1971,ID1-19
+France,Ile de Batz,48.75,-4.01,1972,1,20,France_Ile_de_Batz_1971,ID1-20
+France,Ile de Batz,48.75,-4.01,1972,1,21,France_Ile_de_Batz_1971,ID1-21
+France,Ile de Batz,48.75,-4.01,1972,1,22,France_Ile_de_Batz_1971,ID1-22
+France,Ile de Batz,48.75,-4.01,1972,1,23,France_Ile_de_Batz_1971,ID1-23
+France,Ile de Batz,48.75,-4.01,1972,1,24,France_Ile_de_Batz_1971,ID1-24
+France,Ile de Batz,48.75,-4.01,1972,1,25,France_Ile_de_Batz_1971,ID1-25
+France,Ile de Batz,48.75,-4.01,1972,1,26,France_Ile_de_Batz_1971,ID1-26
+France,Ile de Batz,48.75,-4.01,1972,1,27,France_Ile_de_Batz_1971,ID1-27
+France,Ile de Batz,48.75,-4.01,1972,1,28,France_Ile_de_Batz_1971,ID1-28
+France,Ile de Batz,48.75,-4.01,1972,1,29,France_Ile_de_Batz_1971,ID1-29
+France,Ile de Batz,48.75,-4.01,1972,1,30,France_Ile_de_Batz_1971,ID1-30
+France,Ile de Batz,48.75,-4.01,1972,1,31,France_Ile_de_Batz_1971,ID1-31
+France,Ile de Batz,48.75,-4.01,1972,1,32,France_Ile_de_Batz_1971,ID1-32
+France,Ile de Batz,48.75,-4.01,1972,1,33,France_Ile_de_Batz_1971,ID1-33
+France,Ile de Batz,48.75,-4.01,1972,1,34,France_Ile_de_Batz_1971,ID1-34
+France,Ile de Batz,48.75,-4.01,1972,1,35,France_Ile_de_Batz_1971,ID1-35
+France,Ile de Batz,48.75,-4.01,1972,1,36,France_Ile_de_Batz_1971,ID1-36
+France,Ile de Batz,48.75,-4.01,1972,1,37,France_Ile_de_Batz_1971,ID1-37
+France,Ile de Batz,48.75,-4.01,1972,1,38,France_Ile_de_Batz_1971,ID1-38
+France,Ile de Batz,48.75,-4.01,1972,1,39,France_Ile_de_Batz_1971,ID1-39
+France,Ile de Batz,48.75,-4.01,1972,1,40,France_Ile_de_Batz_1971,ID1-40
+France,Ile de Batz,48.75,-4.01,1972,1,41,France_Ile_de_Batz_1971,ID1-41
+France,Ile de Batz,48.75,-4.01,1972,1,42,France_Ile_de_Batz_1971,ID1-42
+France,Ile de Batz,48.75,-4.01,1972,1,43,France_Ile_de_Batz_1971,ID1-43
+France,Ile de Batz,48.75,-4.01,1972,1,44,France_Ile_de_Batz_1971,ID1-44
+France,Ile de Batz,48.75,-4.01,1972,1,45,France_Ile_de_Batz_1971,ID1-45
+France,Ile de Batz,48.75,-4.01,1972,1,46,France_Ile_de_Batz_1971,ID1-46
+France,Ile de Batz,48.75,-4.01,1972,1,47,France_Ile_de_Batz_1971,ID1-47
+France,Ile de Batz,48.75,-4.01,1972,1,48,France_Ile_de_Batz_1971,ID1-48
+France,Ile de Batz,48.75,-4.01,1972,1,49,France_Ile_de_Batz_1971,ID1-49
+France,Ile de Batz,48.75,-4.01,1972,1,50,France_Ile_de_Batz_1971,ID1-50
+France,Ile de Batz,48.75,-4.01,1972,1,51,France_Ile_de_Batz_1971,ID1-51
+France,Ile de Batz,48.75,-4.01,1972,1,52,France_Ile_de_Batz_1971,ID1-52
+France,Ile de Batz,48.75,-4.01,1972,1,53,France_Ile_de_Batz_1971,ID1-53
+France,Ile de Batz,48.75,-4.01,1972,1,54,France_Ile_de_Batz_1971,ID1-54
+France,Ile de Batz,48.75,-4.01,1972,1,55,France_Ile_de_Batz_1971,ID1-55
+France,Ile de Batz,48.75,-4.01,1972,1,56,France_Ile_de_Batz_1971,ID1-56
+France,Ile de Batz,48.75,-4.01,1972,1,57,France_Ile_de_Batz_1971,ID1-57
+France,Ile de Batz,48.75,-4.01,1972,1,58,France_Ile_de_Batz_1971,ID1-58
+France,Ile de Batz,48.75,-4.01,1972,1,59,France_Ile_de_Batz_1971,ID1-59
+France,Ile de Batz,48.75,-4.01,1972,1,60,France_Ile_de_Batz_1971,ID1-60
+France,Ile de Batz,48.75,-4.01,1972,1,61,France_Ile_de_Batz_1971,ID1-61
+France,Ile de Batz,48.75,-4.01,1972,1,62,France_Ile_de_Batz_1971,ID1-62
+France,Ile de Batz,48.75,-4.01,1972,1,63,France_Ile_de_Batz_1971,ID1-63
+France,Ile de Batz,48.75,-4.01,1972,1,64,France_Ile_de_Batz_1971,ID1-64
+France,Ile de Batz,48.75,-4.01,1972,1,65,France_Ile_de_Batz_1971,ID1-65
+France,Ile de Batz,48.75,-4.01,1972,1,66,France_Ile_de_Batz_1971,ID1-66
+France,Ile de Batz,48.75,-4.01,1972,1,67,France_Ile_de_Batz_1971,ID1-67
+France,Ile de Batz,48.75,-4.01,1972,1,68,France_Ile_de_Batz_1971,ID1-68
+France,Ile de Batz,48.75,-4.01,1972,1,69,France_Ile_de_Batz_1971,ID1-69
+France,Ile de Batz,48.75,-4.01,1972,1,70,France_Ile_de_Batz_1971,ID1-70
+France,Ile de Batz,48.75,-4.01,1972,1,71,France_Ile_de_Batz_1971,ID1-71
+France,Ile de Batz,48.75,-4.01,1972,1,72,France_Ile_de_Batz_1971,ID1-72
+France,Ile de Batz,48.75,-4.01,1972,1,73,France_Ile_de_Batz_1971,ID1-73
+France,Ile de Batz,48.75,-4.01,1972,1,74,France_Ile_de_Batz_1971,ID1-74
+France,Ile de Batz,48.75,-4.01,1972,1,75,France_Ile_de_Batz_1971,ID1-75
+France,Ile de Batz,48.75,-4.01,1972,1,76,France_Ile_de_Batz_1971,ID1-76
+France,Ile de Batz,48.75,-4.01,1972,1,77,France_Ile_de_Batz_1971,ID1-77
+France,Ile de Batz,48.75,-4.01,1972,1,78,France_Ile_de_Batz_1971,ID1-78
+France,Ile de Batz,48.75,-4.01,1972,1,79,France_Ile_de_Batz_1971,ID1-79
+France,Ile de Batz,48.75,-4.01,1972,1,80,France_Ile_de_Batz_1971,ID1-80
+France,Ile de Batz,48.75,-4.01,1972,1,81,France_Ile_de_Batz_1971,ID1-81
+France,Ile de Batz,48.75,-4.01,1972,1,82,France_Ile_de_Batz_1971,ID1-82
+France,Ile de Batz,48.75,-4.01,1972,1,83,France_Ile_de_Batz_1971,ID1-83
+France,Ile de Batz,48.75,-4.01,1972,1,84,France_Ile_de_Batz_1971,ID1-84
+France,Ile de Batz,48.75,-4.01,1972,1,85,France_Ile_de_Batz_1971,ID1-85
+France,Ile de Batz,48.75,-4.01,1972,1,86,France_Ile_de_Batz_1971,ID1-86
+France,Ile de Batz,48.75,-4.01,1972,1,87,France_Ile_de_Batz_1971,ID1-87
+France,Ile de Batz,48.75,-4.01,1972,1,88,France_Ile_de_Batz_1971,ID1-88
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,1,France_Port_Haliguen_Quiberon_1972,ID2-1
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,2,France_Port_Haliguen_Quiberon_1972,ID2-2
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,3,France_Port_Haliguen_Quiberon_1972,ID2-3
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,4,France_Port_Haliguen_Quiberon_1972,ID2-4
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,5,France_Port_Haliguen_Quiberon_1972,ID2-5
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,6,France_Port_Haliguen_Quiberon_1972,ID2-6
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,7,France_Port_Haliguen_Quiberon_1972,ID2-7
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,8,France_Port_Haliguen_Quiberon_1972,ID2-8
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,9,France_Port_Haliguen_Quiberon_1972,ID2-9
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,10,France_Port_Haliguen_Quiberon_1972,ID2-10
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,11,France_Port_Haliguen_Quiberon_1972,ID2-11
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,12,France_Port_Haliguen_Quiberon_1972,ID2-12
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,13,France_Port_Haliguen_Quiberon_1972,ID2-13
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,14,France_Port_Haliguen_Quiberon_1972,ID2-14
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,15,France_Port_Haliguen_Quiberon_1972,ID2-15
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,16,France_Port_Haliguen_Quiberon_1972,ID2-16
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,17,France_Port_Haliguen_Quiberon_1972,ID2-17
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,18,France_Port_Haliguen_Quiberon_1972,ID2-18
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,19,France_Port_Haliguen_Quiberon_1972,ID2-19
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,20,France_Port_Haliguen_Quiberon_1972,ID2-20
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,21,France_Port_Haliguen_Quiberon_1972,ID2-21
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,22,France_Port_Haliguen_Quiberon_1972,ID2-22
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,23,France_Port_Haliguen_Quiberon_1972,ID2-23
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,24,France_Port_Haliguen_Quiberon_1972,ID2-24
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,25,France_Port_Haliguen_Quiberon_1972,ID2-25
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,26,France_Port_Haliguen_Quiberon_1972,ID2-26
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,27,France_Port_Haliguen_Quiberon_1972,ID2-27
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,28,France_Port_Haliguen_Quiberon_1972,ID2-28
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,29,France_Port_Haliguen_Quiberon_1972,ID2-29
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,30,France_Port_Haliguen_Quiberon_1972,ID2-30
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,31,France_Port_Haliguen_Quiberon_1972,ID2-31
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,32,France_Port_Haliguen_Quiberon_1972,ID2-32
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,33,France_Port_Haliguen_Quiberon_1972,ID2-33
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,34,France_Port_Haliguen_Quiberon_1972,ID2-34
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,35,France_Port_Haliguen_Quiberon_1972,ID2-35
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,36,France_Port_Haliguen_Quiberon_1972,ID2-36
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,37,France_Port_Haliguen_Quiberon_1972,ID2-37
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,38,France_Port_Haliguen_Quiberon_1972,ID2-38
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,39,France_Port_Haliguen_Quiberon_1972,ID2-39
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,40,France_Port_Haliguen_Quiberon_1972,ID2-40
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,41,France_Port_Haliguen_Quiberon_1972,ID2-41
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,42,France_Port_Haliguen_Quiberon_1972,ID2-42
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,43,France_Port_Haliguen_Quiberon_1972,ID2-43
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,44,France_Port_Haliguen_Quiberon_1972,ID2-44
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,45,France_Port_Haliguen_Quiberon_1972,ID2-45
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,46,France_Port_Haliguen_Quiberon_1972,ID2-46
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,47,France_Port_Haliguen_Quiberon_1972,ID2-47
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,48,France_Port_Haliguen_Quiberon_1972,ID2-48
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,49,France_Port_Haliguen_Quiberon_1972,ID2-49
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,50,France_Port_Haliguen_Quiberon_1972,ID2-50
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,51,France_Port_Haliguen_Quiberon_1972,ID2-51
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,52,France_Port_Haliguen_Quiberon_1972,ID2-52
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,53,France_Port_Haliguen_Quiberon_1972,ID2-53
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,54,France_Port_Haliguen_Quiberon_1972,ID2-54
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,55,France_Port_Haliguen_Quiberon_1972,ID2-55
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,56,France_Port_Haliguen_Quiberon_1972,ID2-56
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,57,France_Port_Haliguen_Quiberon_1972,ID2-57
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,58,France_Port_Haliguen_Quiberon_1972,ID2-58
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,59,France_Port_Haliguen_Quiberon_1972,ID2-59
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,60,France_Port_Haliguen_Quiberon_1972,ID2-60
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,61,France_Port_Haliguen_Quiberon_1972,ID2-61
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,62,France_Port_Haliguen_Quiberon_1972,ID2-62
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,63,France_Port_Haliguen_Quiberon_1972,ID2-63
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,64,France_Port_Haliguen_Quiberon_1972,ID2-64
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,65,France_Port_Haliguen_Quiberon_1972,ID2-65
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,66,France_Port_Haliguen_Quiberon_1972,ID2-66
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,67,France_Port_Haliguen_Quiberon_1972,ID2-67
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,68,France_Port_Haliguen_Quiberon_1972,ID2-68
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,69,France_Port_Haliguen_Quiberon_1972,ID2-69
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,70,France_Port_Haliguen_Quiberon_1972,ID2-70
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,71,France_Port_Haliguen_Quiberon_1972,ID2-71
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,72,France_Port_Haliguen_Quiberon_1972,ID2-72
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,73,France_Port_Haliguen_Quiberon_1972,ID2-73
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,74,France_Port_Haliguen_Quiberon_1972,ID2-74
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,75,France_Port_Haliguen_Quiberon_1972,ID2-75
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,76,France_Port_Haliguen_Quiberon_1972,ID2-76
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,77,France_Port_Haliguen_Quiberon_1972,ID2-77
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,78,France_Port_Haliguen_Quiberon_1972,ID2-78
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,79,France_Port_Haliguen_Quiberon_1972,ID2-79
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,80,France_Port_Haliguen_Quiberon_1972,ID2-80
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,81,France_Port_Haliguen_Quiberon_1972,ID2-81
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,82,France_Port_Haliguen_Quiberon_1972,ID2-82
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,83,France_Port_Haliguen_Quiberon_1972,ID2-83
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,84,France_Port_Haliguen_Quiberon_1972,ID2-84
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,85,France_Port_Haliguen_Quiberon_1972,ID2-85
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,86,France_Port_Haliguen_Quiberon_1972,ID2-86
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,87,France_Port_Haliguen_Quiberon_1972,ID2-87
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,88,France_Port_Haliguen_Quiberon_1972,ID2-88
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,89,France_Port_Haliguen_Quiberon_1972,ID2-89
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,90,France_Port_Haliguen_Quiberon_1972,ID2-90
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,91,France_Port_Haliguen_Quiberon_1972,ID2-91
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,92,France_Port_Haliguen_Quiberon_1972,ID2-92
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,93,France_Port_Haliguen_Quiberon_1972,ID2-93
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,94,France_Port_Haliguen_Quiberon_1972,ID2-94
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,95,France_Port_Haliguen_Quiberon_1972,ID2-95
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,96,France_Port_Haliguen_Quiberon_1972,ID2-96
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,97,France_Port_Haliguen_Quiberon_1972,ID2-97
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,98,France_Port_Haliguen_Quiberon_1972,ID2-98
+France,Quiberon (Port Haliguen),47.49,-3.1,1972,2,99,France_Port_Haliguen_Quiberon_1972,ID2-99
+Iceland,Fljótavík,66.45,-22.91,1975,3,1,Iceland_Fljótavík_1975,ID3-1
+Iceland,Fljótavík,66.45,-22.91,1975,3,2,Iceland_Fljótavík_1975,ID3-2
+Iceland,Fljótavík,66.45,-22.91,1975,3,3,Iceland_Fljótavík_1975,ID3-3
+Iceland,Fljótavík,66.45,-22.91,1975,3,4,Iceland_Fljótavík_1975,ID3-4
+Iceland,Fljótavík,66.45,-22.91,1975,3,5,Iceland_Fljótavík_1975,ID3-5
+Iceland,Fljótavík,66.45,-22.91,1975,3,6,Iceland_Fljótavík_1975,ID3-6
+Iceland,Fljótavík,66.45,-22.91,1975,3,7,Iceland_Fljótavík_1975,ID3-7
+Iceland,Fljótavík,66.45,-22.91,1975,3,8,Iceland_Fljótavík_1975,ID3-8
+Iceland,Fljótavík,66.45,-22.91,1975,3,9,Iceland_Fljótavík_1975,ID3-9
+Iceland,Fljótavík,66.45,-22.91,1975,3,10,Iceland_Fljótavík_1975,ID3-10
+Iceland,Fljótavík,66.45,-22.91,1975,3,11,Iceland_Fljótavík_1975,ID3-11
+Iceland,Fljótavík,66.45,-22.91,1975,3,12,Iceland_Fljótavík_1975,ID3-12
+Iceland,Fljótavík,66.45,-22.91,1975,3,13,Iceland_Fljótavík_1975,ID3-13
+Iceland,Fljótavík,66.45,-22.91,1975,3,14,Iceland_Fljótavík_1975,ID3-14
+Iceland,Fljótavík,66.45,-22.91,1975,3,15,Iceland_Fljótavík_1975,ID3-15
+Iceland,Fljótavík,66.45,-22.91,1975,3,16,Iceland_Fljótavík_1975,ID3-16
+Iceland,Fljótavík,66.45,-22.91,1975,3,17,Iceland_Fljótavík_1975,ID3-17
+Iceland,Fljótavík,66.45,-22.91,1975,3,18,Iceland_Fljótavík_1975,ID3-18
+Iceland,Fljótavík,66.45,-22.91,1975,3,19,Iceland_Fljótavík_1975,ID3-19
+Iceland,Fljótavík,66.45,-22.91,1975,3,20,Iceland_Fljótavík_1975,ID3-20
+Iceland,Fljótavík,66.45,-22.91,1975,3,21,Iceland_Fljótavík_1975,ID3-21
+Iceland,Fljótavík,66.45,-22.91,1975,3,22,Iceland_Fljótavík_1975,ID3-22
+Iceland,Fljótavík,66.45,-22.91,1975,3,23,Iceland_Fljótavík_1975,ID3-23
+Iceland,Fljótavík,66.45,-22.91,1975,3,24,Iceland_Fljótavík_1975,ID3-24
+Iceland,Fljótavík,66.45,-22.91,1975,3,25,Iceland_Fljótavík_1975,ID3-25
+Iceland,Fljótavík,66.45,-22.91,1975,3,26,Iceland_Fljótavík_1975,ID3-26
+Iceland,Fljótavík,66.45,-22.91,1975,3,27,Iceland_Fljótavík_1975,ID3-27
+Iceland,Fljótavík,66.45,-22.91,1975,3,28,Iceland_Fljótavík_1975,ID3-28
+Iceland,Fljótavík,66.45,-22.91,1975,3,29,Iceland_Fljótavík_1975,ID3-29
+Iceland,Fljótavík,66.45,-22.91,1975,3,30,Iceland_Fljótavík_1975,ID3-30
+Iceland,Fljótavík,66.45,-22.91,1975,3,31,Iceland_Fljótavík_1975,ID3-31
+Iceland,Fljótavík,66.45,-22.91,1975,3,32,Iceland_Fljótavík_1975,ID3-32
+Iceland,Fljótavík,66.45,-22.91,1975,3,33,Iceland_Fljótavík_1975,ID3-33
+Iceland,Fljótavík,66.45,-22.91,1975,3,34,Iceland_Fljótavík_1975,ID3-34
+Iceland,Fljótavík,66.45,-22.91,1975,3,35,Iceland_Fljótavík_1975,ID3-35
+Iceland,Fljótavík,66.45,-22.91,1975,3,36,Iceland_Fljótavík_1975,ID3-36
+Iceland,Fljótavík,66.45,-22.91,1975,3,37,Iceland_Fljótavík_1975,ID3-37
+Iceland,Fljótavík,66.45,-22.91,1975,3,38,Iceland_Fljótavík_1975,ID3-38
+Iceland,Fljótavík,66.45,-22.91,1975,3,39,Iceland_Fljótavík_1975,ID3-39
+Iceland,Fljótavík,66.45,-22.91,1975,3,40,Iceland_Fljótavík_1975,ID3-40
+Iceland,Fljótavík,66.45,-22.91,1975,3,41,Iceland_Fljótavík_1975,ID3-41
+Iceland,Fljótavík,66.45,-22.91,1975,3,42,Iceland_Fljótavík_1975,ID3-42
+Iceland,Fljótavík,66.45,-22.91,1975,3,43,Iceland_Fljótavík_1975,ID3-43
+Iceland,Fljótavík,66.45,-22.91,1975,3,44,Iceland_Fljótavík_1975,ID3-44
+Iceland,Fljótavík,66.45,-22.91,1975,3,45,Iceland_Fljótavík_1975,ID3-45
+Iceland,Fljótavík,66.45,-22.91,1975,3,46,Iceland_Fljótavík_1975,ID3-46
+Iceland,Fljótavík,66.45,-22.91,1975,3,47,Iceland_Fljótavík_1975,ID3-47
+Iceland,Fljótavík,66.45,-22.91,1975,3,48,Iceland_Fljótavík_1975,ID3-48
+Iceland,Fljótavík,66.45,-22.91,1975,3,49,Iceland_Fljótavík_1975,ID3-49
+Iceland,Fljótavík,66.45,-22.91,1975,3,50,Iceland_Fljótavík_1975,ID3-50
+Iceland,Fljótavík,66.45,-22.91,1975,3,51,Iceland_Fljótavík_1975,ID3-51
+Iceland,Fljótavík,66.45,-22.91,1975,3,52,Iceland_Fljótavík_1975,ID3-52
+Iceland,Fljótavík,66.45,-22.91,1975,3,53,Iceland_Fljótavík_1975,ID3-53
+Iceland,Fljótavík,66.45,-22.91,1975,3,54,Iceland_Fljótavík_1975,ID3-54
+Iceland,Fljótavík,66.45,-22.91,1975,3,55,Iceland_Fljótavík_1975,ID3-55
+Iceland,Fljótavík,66.45,-22.91,1975,3,56,Iceland_Fljótavík_1975,ID3-56
+Iceland,Fljótavík,66.45,-22.91,1975,3,57,Iceland_Fljótavík_1975,ID3-57
+Iceland,Fljótavík,66.45,-22.91,1975,3,58,Iceland_Fljótavík_1975,ID3-58
+Iceland,Fljótavík,66.45,-22.91,1975,3,59,Iceland_Fljótavík_1975,ID3-59
+Iceland,Fljótavík,66.45,-22.91,1975,3,60,Iceland_Fljótavík_1975,ID3-60
+Iceland,Fljótavík,66.45,-22.91,1975,3,61,Iceland_Fljótavík_1975,ID3-61
+Iceland,Fljótavík,66.45,-22.91,1975,3,62,Iceland_Fljótavík_1975,ID3-62
+Iceland,Fljótavík,66.45,-22.91,1975,3,63,Iceland_Fljótavík_1975,ID3-63
+Iceland,Fljótavík,66.45,-22.91,1975,3,64,Iceland_Fljótavík_1975,ID3-64
+Iceland,Fljótavík,66.45,-22.91,1975,3,65,Iceland_Fljótavík_1975,ID3-65
+Iceland,Fljótavík,66.45,-22.91,1975,3,66,Iceland_Fljótavík_1975,ID3-66
+Iceland,Fljótavík,66.45,-22.91,1975,3,67,Iceland_Fljótavík_1975,ID3-67
+Iceland,Fljótavík,66.45,-22.91,1975,3,68,Iceland_Fljótavík_1975,ID3-68
+Iceland,Fljótavík,66.45,-22.91,1975,3,69,Iceland_Fljótavík_1975,ID3-69
+Iceland,Fljótavík,66.45,-22.91,1975,3,70,Iceland_Fljótavík_1975,ID3-70
+Iceland,Fljótavík,66.45,-22.91,1975,3,71,Iceland_Fljótavík_1975,ID3-71
+Iceland,Fljótavík,66.45,-22.91,1975,3,72,Iceland_Fljótavík_1975,ID3-72
+Iceland,Fljótavík,66.45,-22.91,1975,3,73,Iceland_Fljótavík_1975,ID3-73
+Iceland,Fljótavík,66.45,-22.91,1975,3,74,Iceland_Fljótavík_1975,ID3-74
+Iceland,Fljótavík,66.45,-22.91,1975,3,75,Iceland_Fljótavík_1975,ID3-75
+Iceland,Fljótavík,66.45,-22.91,1975,3,76,Iceland_Fljótavík_1975,ID3-76
+Iceland,Fljótavík,66.45,-22.91,1975,3,77,Iceland_Fljótavík_1975,ID3-77
+Iceland,Fljótavík,66.45,-22.91,1975,3,78,Iceland_Fljótavík_1975,ID3-78
+Iceland,Fljótavík,66.45,-22.91,1975,3,79,Iceland_Fljótavík_1975,ID3-79
+Iceland,Fljótavík,66.45,-22.91,1975,3,80,Iceland_Fljótavík_1975,ID3-80
+Iceland,Fljótavík,66.45,-22.91,1975,3,81,Iceland_Fljótavík_1975,ID3-81
+Iceland,Fljótavík,66.45,-22.91,1975,3,82,Iceland_Fljótavík_1975,ID3-82
+Iceland,Fljótavík,66.45,-22.91,1975,3,83,Iceland_Fljótavík_1975,ID3-83
+Iceland,Fljótavík,66.45,-22.91,1975,3,84,Iceland_Fljótavík_1975,ID3-84
+Iceland,Fljótavík,66.45,-22.91,1975,3,85,Iceland_Fljótavík_1975,ID3-85
+Iceland,Fljótavík,66.45,-22.91,1975,3,86,Iceland_Fljótavík_1975,ID3-86
+Iceland,Fljótavík,66.45,-22.91,1975,3,87,Iceland_Fljótavík_1975,ID3-87
+Iceland,Fljótavík,66.45,-22.91,1975,3,88,Iceland_Fljótavík_1975,ID3-88
+Iceland,Fljótavík,66.45,-22.91,1975,3,89,Iceland_Fljótavík_1975,ID3-89
+Iceland,Fljótavík,66.45,-22.91,1975,3,90,Iceland_Fljótavík_1975,ID3-90
+Iceland,Fljótavík,66.45,-22.91,1975,3,91,Iceland_Fljótavík_1975,ID3-91
+Iceland,Fljótavík,66.45,-22.91,1975,3,92,Iceland_Fljótavík_1975,ID3-92
+Iceland,Fljótavík,66.45,-22.91,1975,3,93,Iceland_Fljótavík_1975,ID3-93
+Iceland,Fljótavík,66.45,-22.91,1975,3,94,Iceland_Fljótavík_1975,ID3-94
+Iceland,Fljótavík,66.45,-22.91,1975,3,95,Iceland_Fljótavík_1975,ID3-95
+Iceland,Fljótavík,66.45,-22.91,1975,3,96,Iceland_Fljótavík_1975,ID3-96
+Iceland,Fljótavík,66.45,-22.91,1975,3,97,Iceland_Fljótavík_1975,ID3-97
+Iceland,Fljótavík,66.45,-22.91,1975,3,98,Iceland_Fljótavík_1975,ID3-98
+Iceland,Fljótavík,66.45,-22.91,1975,3,99,Iceland_Fljótavík_1975,ID3-99
+Iceland,Fljótavík,66.45,-22.91,1975,3,100,Iceland_Fljótavík_1975,ID3-100
+Norway,Bjarkøy,68.99,16.54,,4,1,Norway_Bjarkøy_na,ID4-1
+Norway,Bjarkøy,68.99,16.54,,4,2,Norway_Bjarkøy_na,ID4-2
+Norway,Bjarkøy,68.99,16.54,,4,3,Norway_Bjarkøy_na,ID4-3
+Norway,Bjarkøy,68.99,16.54,,4,4,Norway_Bjarkøy_na,ID4-4
+Norway,Bjarkøy,68.99,16.54,,4,5,Norway_Bjarkøy_na,ID4-5
+Norway,Bjarkøy,68.99,16.54,,4,6,Norway_Bjarkøy_na,ID4-6
+Norway,Bjarkøy,68.99,16.54,,4,7,Norway_Bjarkøy_na,ID4-7
+Norway,Bjarkøy,68.99,16.54,,4,8,Norway_Bjarkøy_na,ID4-8
+Norway,Bjarkøy,68.99,16.54,,4,9,Norway_Bjarkøy_na,ID4-9
+Norway,Bjarkøy,68.99,16.54,,4,10,Norway_Bjarkøy_na,ID4-10
+Norway,Bjarkøy,68.99,16.54,,4,11,Norway_Bjarkøy_na,ID4-11
+Norway,Bjarkøy,68.99,16.54,,4,12,Norway_Bjarkøy_na,ID4-12
+Norway,Bjarkøy,68.99,16.54,,4,13,Norway_Bjarkøy_na,ID4-13
+Norway,Bjarkøy,68.99,16.54,,4,14,Norway_Bjarkøy_na,ID4-14
+Norway,Bjarkøy,68.99,16.54,,4,15,Norway_Bjarkøy_na,ID4-15
+Norway,Bjarkøy,68.99,16.54,,4,16,Norway_Bjarkøy_na,ID4-16
+Norway,Bjarkøy,68.99,16.54,,4,17,Norway_Bjarkøy_na,ID4-17
+Norway,Bjarkøy,68.99,16.54,,4,18,Norway_Bjarkøy_na,ID4-18
+Norway,Bjarkøy,68.99,16.54,,4,19,Norway_Bjarkøy_na,ID4-19
+Norway,Bjarkøy,68.99,16.54,,4,20,Norway_Bjarkøy_na,ID4-20
+Norway,Bjarkøy,68.99,16.54,,4,21,Norway_Bjarkøy_na,ID4-21
+Norway,Bjarkøy,68.99,16.54,,4,22,Norway_Bjarkøy_na,ID4-22
+Norway,Bjarkøy,68.99,16.54,,4,23,Norway_Bjarkøy_na,ID4-23
+Norway,Bjarkøy,68.99,16.54,,4,24,Norway_Bjarkøy_na,ID4-24
+Norway,Bjarkøy,68.99,16.54,,4,25,Norway_Bjarkøy_na,ID4-25
+Norway,Bjarkøy,68.99,16.54,,4,26,Norway_Bjarkøy_na,ID4-26
+Norway,Bjarkøy,68.99,16.54,,4,27,Norway_Bjarkøy_na,ID4-27
+Norway,Bjarkøy,68.99,16.54,,4,28,Norway_Bjarkøy_na,ID4-28
+Norway,Bjarkøy,68.99,16.54,,4,29,Norway_Bjarkøy_na,ID4-29
+Norway,Bjarkøy,68.99,16.54,,4,30,Norway_Bjarkøy_na,ID4-30
+Norway,Bjarkøy,68.99,16.54,,4,31,Norway_Bjarkøy_na,ID4-31
+Norway,Bjarkøy,68.99,16.54,,4,32,Norway_Bjarkøy_na,ID4-32
+Norway,Bjarkøy,68.99,16.54,,4,33,Norway_Bjarkøy_na,ID4-33
+Norway,Bjarkøy,68.99,16.54,,4,34,Norway_Bjarkøy_na,ID4-34
+Norway,Bjarkøy,68.99,16.54,,4,35,Norway_Bjarkøy_na,ID4-35
+Norway,Bjarkøy,68.99,16.54,,4,36,Norway_Bjarkøy_na,ID4-36
+Norway,Bjarkøy,68.99,16.54,,4,37,Norway_Bjarkøy_na,ID4-37
+Norway,Bjarkøy,68.99,16.54,,4,38,Norway_Bjarkøy_na,ID4-38
+Norway,Bjarkøy,68.99,16.54,,4,39,Norway_Bjarkøy_na,ID4-39
+Norway,Bjarkøy,68.99,16.54,,4,40,Norway_Bjarkøy_na,ID4-40
+Norway,Bjarkøy,68.99,16.54,,4,41,Norway_Bjarkøy_na,ID4-41
+Norway,Bjarkøy,68.99,16.54,,4,42,Norway_Bjarkøy_na,ID4-42
+Norway,Bjarkøy,68.99,16.54,,4,43,Norway_Bjarkøy_na,ID4-43
+Norway,Bjarkøy,68.99,16.54,,4,44,Norway_Bjarkøy_na,ID4-44
+Norway,Bjarkøy,68.99,16.54,,4,45,Norway_Bjarkøy_na,ID4-45
+Norway,Bjarkøy,68.99,16.54,,4,46,Norway_Bjarkøy_na,ID4-46
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,1,Norway_Hoplandsjøen_Harbour_1975,ID5-1
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,2,Norway_Hoplandsjøen_Harbour_1975,ID5-2
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,3,Norway_Hoplandsjøen_Harbour_1975,ID5-3
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,4,Norway_Hoplandsjøen_Harbour_1975,ID5-4
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,5,Norway_Hoplandsjøen_Harbour_1975,ID5-5
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,6,Norway_Hoplandsjøen_Harbour_1975,ID5-6
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,7,Norway_Hoplandsjøen_Harbour_1975,ID5-7
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,8,Norway_Hoplandsjøen_Harbour_1975,ID5-8
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,9,Norway_Hoplandsjøen_Harbour_1975,ID5-9
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,10,Norway_Hoplandsjøen_Harbour_1975,ID5-10
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,11,Norway_Hoplandsjøen_Harbour_1975,ID5-11
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,12,Norway_Hoplandsjøen_Harbour_1975,ID5-12
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,13,Norway_Hoplandsjøen_Harbour_1975,ID5-13
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,14,Norway_Hoplandsjøen_Harbour_1975,ID5-14
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,15,Norway_Hoplandsjøen_Harbour_1975,ID5-15
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,16,Norway_Hoplandsjøen_Harbour_1975,ID5-16
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,17,Norway_Hoplandsjøen_Harbour_1975,ID5-17
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,18,Norway_Hoplandsjøen_Harbour_1975,ID5-18
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,19,Norway_Hoplandsjøen_Harbour_1975,ID5-19
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,20,Norway_Hoplandsjøen_Harbour_1975,ID5-20
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,21,Norway_Hoplandsjøen_Harbour_1975,ID5-21
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,22,Norway_Hoplandsjøen_Harbour_1975,ID5-22
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,23,Norway_Hoplandsjøen_Harbour_1975,ID5-23
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,24,Norway_Hoplandsjøen_Harbour_1975,ID5-24
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,25,Norway_Hoplandsjøen_Harbour_1975,ID5-25
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,26,Norway_Hoplandsjøen_Harbour_1975,ID5-26
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,27,Norway_Hoplandsjøen_Harbour_1975,ID5-27
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,28,Norway_Hoplandsjøen_Harbour_1975,ID5-28
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,29,Norway_Hoplandsjøen_Harbour_1975,ID5-29
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,30,Norway_Hoplandsjøen_Harbour_1975,ID5-30
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,31,Norway_Hoplandsjøen_Harbour_1975,ID5-31
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,32,Norway_Hoplandsjøen_Harbour_1975,ID5-32
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,33,Norway_Hoplandsjøen_Harbour_1975,ID5-33
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,34,Norway_Hoplandsjøen_Harbour_1975,ID5-34
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,35,Norway_Hoplandsjøen_Harbour_1975,ID5-35
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,36,Norway_Hoplandsjøen_Harbour_1975,ID5-36
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,37,Norway_Hoplandsjøen_Harbour_1975,ID5-37
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,38,Norway_Hoplandsjøen_Harbour_1975,ID5-38
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,39,Norway_Hoplandsjøen_Harbour_1975,ID5-39
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,40,Norway_Hoplandsjøen_Harbour_1975,ID5-40
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,41,Norway_Hoplandsjøen_Harbour_1975,ID5-41
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,42,Norway_Hoplandsjøen_Harbour_1975,ID5-42
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,43,Norway_Hoplandsjøen_Harbour_1975,ID5-43
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,44,Norway_Hoplandsjøen_Harbour_1975,ID5-44
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,45,Norway_Hoplandsjøen_Harbour_1975,ID5-45
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,46,Norway_Hoplandsjøen_Harbour_1975,ID5-46
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,47,Norway_Hoplandsjøen_Harbour_1975,ID5-47
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,48,Norway_Hoplandsjøen_Harbour_1975,ID5-48
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,49,Norway_Hoplandsjøen_Harbour_1975,ID5-49
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,50,Norway_Hoplandsjøen_Harbour_1975,ID5-50
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,51,Norway_Hoplandsjøen_Harbour_1975,ID5-51
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,52,Norway_Hoplandsjøen_Harbour_1975,ID5-52
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,53,Norway_Hoplandsjøen_Harbour_1975,ID5-53
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,54,Norway_Hoplandsjøen_Harbour_1975,ID5-54
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,55,Norway_Hoplandsjøen_Harbour_1975,ID5-55
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,56,Norway_Hoplandsjøen_Harbour_1975,ID5-56
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,57,Norway_Hoplandsjøen_Harbour_1975,ID5-57
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,58,Norway_Hoplandsjøen_Harbour_1975,ID5-58
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,59,Norway_Hoplandsjøen_Harbour_1975,ID5-59
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,60,Norway_Hoplandsjøen_Harbour_1975,ID5-60
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,61,Norway_Hoplandsjøen_Harbour_1975,ID5-61
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,62,Norway_Hoplandsjøen_Harbour_1975,ID5-62
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,63,Norway_Hoplandsjøen_Harbour_1975,ID5-63
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,64,Norway_Hoplandsjøen_Harbour_1975,ID5-64
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,65,Norway_Hoplandsjøen_Harbour_1975,ID5-65
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,66,Norway_Hoplandsjøen_Harbour_1975,ID5-66
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,67,Norway_Hoplandsjøen_Harbour_1975,ID5-67
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,68,Norway_Hoplandsjøen_Harbour_1975,ID5-68
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,69,Norway_Hoplandsjøen_Harbour_1975,ID5-69
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,70,Norway_Hoplandsjøen_Harbour_1975,ID5-70
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,71,Norway_Hoplandsjøen_Harbour_1975,ID5-71
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,72,Norway_Hoplandsjøen_Harbour_1975,ID5-72
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,73,Norway_Hoplandsjøen_Harbour_1975,ID5-73
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,74,Norway_Hoplandsjøen_Harbour_1975,ID5-74
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,75,Norway_Hoplandsjøen_Harbour_1975,ID5-75
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,76,Norway_Hoplandsjøen_Harbour_1975,ID5-76
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,77,Norway_Hoplandsjøen_Harbour_1975,ID5-77
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,78,Norway_Hoplandsjøen_Harbour_1975,ID5-78
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,79,Norway_Hoplandsjøen_Harbour_1975,ID5-79
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,80,Norway_Hoplandsjøen_Harbour_1975,ID5-80
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,81,Norway_Hoplandsjøen_Harbour_1975,ID5-81
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,82,Norway_Hoplandsjøen_Harbour_1975,ID5-82
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,83,Norway_Hoplandsjøen_Harbour_1975,ID5-83
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,84,Norway_Hoplandsjøen_Harbour_1975,ID5-84
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,85,Norway_Hoplandsjøen_Harbour_1975,ID5-85
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,86,Norway_Hoplandsjøen_Harbour_1975,ID5-86
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,87,Norway_Hoplandsjøen_Harbour_1975,ID5-87
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,88,Norway_Hoplandsjøen_Harbour_1975,ID5-88
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,89,Norway_Hoplandsjøen_Harbour_1975,ID5-89
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,90,Norway_Hoplandsjøen_Harbour_1975,ID5-90
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,91,Norway_Hoplandsjøen_Harbour_1975,ID5-91
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,92,Norway_Hoplandsjøen_Harbour_1975,ID5-92
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,93,Norway_Hoplandsjøen_Harbour_1975,ID5-93
+Norway,Hoplandsjøen (Harbour),60.75,4.91,1976,5,94,Norway_Hoplandsjøen_Harbour_1975,ID5-94
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,1,Norway_Hoplandsjøen_outer_1975,ID6-1
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,2,Norway_Hoplandsjøen_outer_1975,ID6-2
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,3,Norway_Hoplandsjøen_outer_1975,ID6-3
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,4,Norway_Hoplandsjøen_outer_1975,ID6-4
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,5,Norway_Hoplandsjøen_outer_1975,ID6-5
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,6,Norway_Hoplandsjøen_outer_1975,ID6-6
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,7,Norway_Hoplandsjøen_outer_1975,ID6-7
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,8,Norway_Hoplandsjøen_outer_1975,ID6-8
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,9,Norway_Hoplandsjøen_outer_1975,ID6-9
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,10,Norway_Hoplandsjøen_outer_1975,ID6-10
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,11,Norway_Hoplandsjøen_outer_1975,ID6-11
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,12,Norway_Hoplandsjøen_outer_1975,ID6-12
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,13,Norway_Hoplandsjøen_outer_1975,ID6-13
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,14,Norway_Hoplandsjøen_outer_1975,ID6-14
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,15,Norway_Hoplandsjøen_outer_1975,ID6-15
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,16,Norway_Hoplandsjøen_outer_1975,ID6-16
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,17,Norway_Hoplandsjøen_outer_1975,ID6-17
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,18,Norway_Hoplandsjøen_outer_1975,ID6-18
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,19,Norway_Hoplandsjøen_outer_1975,ID6-19
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,20,Norway_Hoplandsjøen_outer_1975,ID6-20
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,21,Norway_Hoplandsjøen_outer_1975,ID6-21
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,22,Norway_Hoplandsjøen_outer_1975,ID6-22
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,23,Norway_Hoplandsjøen_outer_1975,ID6-23
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,24,Norway_Hoplandsjøen_outer_1975,ID6-24
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,25,Norway_Hoplandsjøen_outer_1975,ID6-25
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,26,Norway_Hoplandsjøen_outer_1975,ID6-26
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,27,Norway_Hoplandsjøen_outer_1975,ID6-27
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,28,Norway_Hoplandsjøen_outer_1975,ID6-28
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,29,Norway_Hoplandsjøen_outer_1975,ID6-29
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,30,Norway_Hoplandsjøen_outer_1975,ID6-30
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,31,Norway_Hoplandsjøen_outer_1975,ID6-31
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,32,Norway_Hoplandsjøen_outer_1975,ID6-32
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,33,Norway_Hoplandsjøen_outer_1975,ID6-33
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,34,Norway_Hoplandsjøen_outer_1975,ID6-34
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,35,Norway_Hoplandsjøen_outer_1975,ID6-35
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,36,Norway_Hoplandsjøen_outer_1975,ID6-36
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,37,Norway_Hoplandsjøen_outer_1975,ID6-37
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,38,Norway_Hoplandsjøen_outer_1975,ID6-38
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,39,Norway_Hoplandsjøen_outer_1975,ID6-39
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,40,Norway_Hoplandsjøen_outer_1975,ID6-40
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,41,Norway_Hoplandsjøen_outer_1975,ID6-41
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,42,Norway_Hoplandsjøen_outer_1975,ID6-42
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,43,Norway_Hoplandsjøen_outer_1975,ID6-43
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,44,Norway_Hoplandsjøen_outer_1975,ID6-44
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,45,Norway_Hoplandsjøen_outer_1975,ID6-45
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,46,Norway_Hoplandsjøen_outer_1975,ID6-46
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,47,Norway_Hoplandsjøen_outer_1975,ID6-47
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,48,Norway_Hoplandsjøen_outer_1975,ID6-48
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,49,Norway_Hoplandsjøen_outer_1975,ID6-49
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,50,Norway_Hoplandsjøen_outer_1975,ID6-50
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,51,Norway_Hoplandsjøen_outer_1975,ID6-51
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,52,Norway_Hoplandsjøen_outer_1975,ID6-52
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,53,Norway_Hoplandsjøen_outer_1975,ID6-53
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,54,Norway_Hoplandsjøen_outer_1975,ID6-54
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,55,Norway_Hoplandsjøen_outer_1975,ID6-55
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,56,Norway_Hoplandsjøen_outer_1975,ID6-56
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,57,Norway_Hoplandsjøen_outer_1975,ID6-57
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,58,Norway_Hoplandsjøen_outer_1975,ID6-58
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,59,Norway_Hoplandsjøen_outer_1975,ID6-59
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,60,Norway_Hoplandsjøen_outer_1975,ID6-60
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,61,Norway_Hoplandsjøen_outer_1975,ID6-61
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,62,Norway_Hoplandsjøen_outer_1975,ID6-62
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,63,Norway_Hoplandsjøen_outer_1975,ID6-63
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,64,Norway_Hoplandsjøen_outer_1975,ID6-64
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,65,Norway_Hoplandsjøen_outer_1975,ID6-65
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,66,Norway_Hoplandsjøen_outer_1975,ID6-66
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,67,Norway_Hoplandsjøen_outer_1975,ID6-67
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,68,Norway_Hoplandsjøen_outer_1975,ID6-68
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,69,Norway_Hoplandsjøen_outer_1975,ID6-69
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,70,Norway_Hoplandsjøen_outer_1975,ID6-70
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,71,Norway_Hoplandsjøen_outer_1975,ID6-71
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,72,Norway_Hoplandsjøen_outer_1975,ID6-72
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,73,Norway_Hoplandsjøen_outer_1975,ID6-73
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,74,Norway_Hoplandsjøen_outer_1975,ID6-74
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,75,Norway_Hoplandsjøen_outer_1975,ID6-75
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,76,Norway_Hoplandsjøen_outer_1975,ID6-76
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,77,Norway_Hoplandsjøen_outer_1975,ID6-77
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,78,Norway_Hoplandsjøen_outer_1975,ID6-78
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,79,Norway_Hoplandsjøen_outer_1975,ID6-79
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,80,Norway_Hoplandsjøen_outer_1975,ID6-80
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,81,Norway_Hoplandsjøen_outer_1975,ID6-81
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,82,Norway_Hoplandsjøen_outer_1975,ID6-82
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,83,Norway_Hoplandsjøen_outer_1975,ID6-83
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,84,Norway_Hoplandsjøen_outer_1975,ID6-84
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,85,Norway_Hoplandsjøen_outer_1975,ID6-85
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,86,Norway_Hoplandsjøen_outer_1975,ID6-86
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,87,Norway_Hoplandsjøen_outer_1975,ID6-87
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,88,Norway_Hoplandsjøen_outer_1975,ID6-88
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,89,Norway_Hoplandsjøen_outer_1975,ID6-89
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,90,Norway_Hoplandsjøen_outer_1975,ID6-90
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,91,Norway_Hoplandsjøen_outer_1975,ID6-91
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,92,Norway_Hoplandsjøen_outer_1975,ID6-92
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,93,Norway_Hoplandsjøen_outer_1975,ID6-93
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,94,Norway_Hoplandsjøen_outer_1975,ID6-94
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,95,Norway_Hoplandsjøen_outer_1975,ID6-95
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,96,Norway_Hoplandsjøen_outer_1975,ID6-96
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,97,Norway_Hoplandsjøen_outer_1975,ID6-97
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,98,Norway_Hoplandsjøen_outer_1975,ID6-98
+Norway,Hoplandsjøen (outer),60.75,4.91,1976,6,99,Norway_Hoplandsjøen_outer_1975,ID6-99
+Norway,Litløya,68.59,14.32,,7,1,Norway_Litløya_na,ID7-1
+Norway,Litløya,68.59,14.32,,7,2,Norway_Litløya_na,ID7-2
+Norway,Litløya,68.59,14.32,,7,3,Norway_Litløya_na,ID7-3
+Norway,Litløya,68.59,14.32,,7,4,Norway_Litløya_na,ID7-4
+Norway,Litløya,68.59,14.32,,7,5,Norway_Litløya_na,ID7-5
+Norway,Litløya,68.59,14.32,,7,6,Norway_Litløya_na,ID7-6
+Norway,Litløya,68.59,14.32,,7,7,Norway_Litløya_na,ID7-7
+Norway,Litløya,68.59,14.32,,7,8,Norway_Litløya_na,ID7-8
+Norway,Litløya,68.59,14.32,,7,9,Norway_Litløya_na,ID7-9
+Norway,Litløya,68.59,14.32,,7,10,Norway_Litløya_na,ID7-10
+Norway,Litløya,68.59,14.32,,7,11,Norway_Litløya_na,ID7-11
+Norway,Litløya,68.59,14.32,,7,12,Norway_Litløya_na,ID7-12
+Norway,Litløya,68.59,14.32,,7,13,Norway_Litløya_na,ID7-13
+Norway,Litløya,68.59,14.32,,7,14,Norway_Litløya_na,ID7-14
+Norway,Litløya,68.59,14.32,,7,15,Norway_Litløya_na,ID7-15
+Norway,Litløya,68.59,14.32,,7,16,Norway_Litløya_na,ID7-16
+Norway,Litløya,68.59,14.32,,7,17,Norway_Litløya_na,ID7-17
+Norway,Litløya,68.59,14.32,,7,18,Norway_Litløya_na,ID7-18
+Norway,Litløya,68.59,14.32,,7,19,Norway_Litløya_na,ID7-19
+Norway,Litløya,68.59,14.32,,7,20,Norway_Litløya_na,ID7-20
+Norway,Litløya,68.59,14.32,,7,21,Norway_Litløya_na,ID7-21
+Norway,Litløya,68.59,14.32,,7,22,Norway_Litløya_na,ID7-22
+Norway,Litløya,68.59,14.32,,7,23,Norway_Litløya_na,ID7-23
+Norway,Litløya,68.59,14.32,,7,24,Norway_Litløya_na,ID7-24
+Norway,Litløya,68.59,14.32,,7,25,Norway_Litløya_na,ID7-25
+Norway,Litløya,68.59,14.32,,7,26,Norway_Litløya_na,ID7-26
+Norway,Litløya,68.59,14.32,,7,27,Norway_Litløya_na,ID7-27
+Norway,Litløya,68.59,14.32,,7,28,Norway_Litløya_na,ID7-28
+Norway,Litløya,68.59,14.32,,7,29,Norway_Litløya_na,ID7-29
+Norway,Litløya,68.59,14.32,,7,30,Norway_Litløya_na,ID7-30
+Norway,Litløya,68.59,14.32,,7,31,Norway_Litløya_na,ID7-31
+Norway,Litløya,68.59,14.32,,7,32,Norway_Litløya_na,ID7-32
+Norway,Litløya,68.59,14.32,,7,33,Norway_Litløya_na,ID7-33
+Norway,Litløya,68.59,14.32,,7,34,Norway_Litløya_na,ID7-34
+Norway,Litløya,68.59,14.32,,7,35,Norway_Litløya_na,ID7-35
+Norway,Litløya,68.59,14.32,,7,36,Norway_Litløya_na,ID7-36
+Norway,Litløya,68.59,14.32,,7,37,Norway_Litløya_na,ID7-37
+Norway,Litløya,68.59,14.32,,7,38,Norway_Litløya_na,ID7-38
+Norway,Litløya,68.59,14.32,,7,39,Norway_Litløya_na,ID7-39
+Norway,Litløya,68.59,14.32,,7,40,Norway_Litløya_na,ID7-40
+Norway,Litløya,68.59,14.32,,7,41,Norway_Litløya_na,ID7-41
+Norway,Litløya,68.59,14.32,,7,42,Norway_Litløya_na,ID7-42
+Norway,Litløya,68.59,14.32,,7,43,Norway_Litløya_na,ID7-43
+Norway,Litløya,68.59,14.32,,7,44,Norway_Litløya_na,ID7-44
+Norway,Litløya,68.59,14.32,,7,45,Norway_Litløya_na,ID7-45
+Norway,Litløya,68.59,14.32,,7,46,Norway_Litløya_na,ID7-46
+Norway,Litløya,68.59,14.32,,7,47,Norway_Litløya_na,ID7-47
+Norway,Litløya,68.59,14.32,,7,48,Norway_Litløya_na,ID7-48
+Norway,Litløya,68.59,14.32,,7,49,Norway_Litløya_na,ID7-49
+Norway,Litløya,68.59,14.32,,7,50,Norway_Litløya_na,ID7-50
+Norway,Litløya,68.59,14.32,,7,51,Norway_Litløya_na,ID7-51
+Norway,Litløya,68.59,14.32,,7,52,Norway_Litløya_na,ID7-52
+Norway,Litløya,68.59,14.32,,7,53,Norway_Litløya_na,ID7-53
+Norway,Lurøy,66.37,12.6,1974,8,1,Norway_Lurøy_1974,ID8-1
+Norway,Lurøy,66.37,12.6,1974,8,2,Norway_Lurøy_1974,ID8-2
+Norway,Lurøy,66.37,12.6,1974,8,3,Norway_Lurøy_1974,ID8-3
+Norway,Lurøy,66.37,12.6,1974,8,4,Norway_Lurøy_1974,ID8-4
+Norway,Lurøy,66.37,12.6,1974,8,5,Norway_Lurøy_1974,ID8-5
+Norway,Lurøy,66.37,12.6,1974,8,6,Norway_Lurøy_1974,ID8-6
+Norway,Lurøy,66.37,12.6,1974,8,7,Norway_Lurøy_1974,ID8-7
+Norway,Lurøy,66.37,12.6,1974,8,8,Norway_Lurøy_1974,ID8-8
+Norway,Lurøy,66.37,12.6,1974,8,9,Norway_Lurøy_1974,ID8-9
+Norway,Lurøy,66.37,12.6,1974,8,10,Norway_Lurøy_1974,ID8-10
+Norway,Lurøy,66.37,12.6,1974,8,11,Norway_Lurøy_1974,ID8-11
+Norway,Lurøy,66.37,12.6,1974,8,12,Norway_Lurøy_1974,ID8-12
+Norway,Lurøy,66.37,12.6,1974,8,13,Norway_Lurøy_1974,ID8-13
+Norway,Lurøy,66.37,12.6,1974,8,14,Norway_Lurøy_1974,ID8-14
+Norway,Lurøy,66.37,12.6,1974,8,15,Norway_Lurøy_1974,ID8-15
+Norway,Lurøy,66.37,12.6,1974,8,16,Norway_Lurøy_1974,ID8-16
+Norway,Lurøy,66.37,12.6,1974,8,17,Norway_Lurøy_1974,ID8-17
+Norway,Lurøy,66.37,12.6,1974,8,18,Norway_Lurøy_1974,ID8-18
+Norway,Lurøy,66.37,12.6,1974,8,19,Norway_Lurøy_1974,ID8-19
+Norway,Lurøy,66.37,12.6,1974,8,20,Norway_Lurøy_1974,ID8-20
+Norway,Lurøy,66.37,12.6,1974,8,21,Norway_Lurøy_1974,ID8-21
+Norway,Lurøy,66.37,12.6,1974,8,22,Norway_Lurøy_1974,ID8-22
+Norway,Lurøy,66.37,12.6,1974,8,23,Norway_Lurøy_1974,ID8-23
+Norway,Lurøy,66.37,12.6,1974,8,24,Norway_Lurøy_1974,ID8-24
+Norway,Lurøy,66.37,12.6,1974,8,25,Norway_Lurøy_1974,ID8-25
+Norway,Lurøy,66.37,12.6,1974,8,26,Norway_Lurøy_1974,ID8-26
+Norway,Lurøy,66.37,12.6,1974,8,27,Norway_Lurøy_1974,ID8-27
+Norway,Lurøy,66.37,12.6,1974,8,28,Norway_Lurøy_1974,ID8-28
+Norway,Lurøy,66.37,12.6,1974,8,29,Norway_Lurøy_1974,ID8-29
+Norway,Lurøy,66.37,12.6,1974,8,30,Norway_Lurøy_1974,ID8-30
+Norway,Lurøy,66.37,12.6,1974,8,31,Norway_Lurøy_1974,ID8-31
+Norway,Lurøy,66.37,12.6,1974,8,32,Norway_Lurøy_1974,ID8-32
+Norway,Lurøy,66.37,12.6,1974,8,33,Norway_Lurøy_1974,ID8-33
+Norway,Lurøy,66.37,12.6,1974,8,34,Norway_Lurøy_1974,ID8-34
+Norway,Lurøy,66.37,12.6,1974,8,35,Norway_Lurøy_1974,ID8-35
+Norway,Lurøy,66.37,12.6,1974,8,36,Norway_Lurøy_1974,ID8-36
+Norway,Lurøy,66.37,12.6,1974,8,37,Norway_Lurøy_1974,ID8-37
+Norway,Lurøy,66.37,12.6,1974,8,38,Norway_Lurøy_1974,ID8-38
+Norway,Lurøy,66.37,12.6,1974,8,39,Norway_Lurøy_1974,ID8-39
+Norway,Lurøy,66.37,12.6,1974,8,40,Norway_Lurøy_1974,ID8-40
+Norway,Lurøy,66.37,12.6,1974,8,41,Norway_Lurøy_1974,ID8-41
+Norway,Lurøy,66.37,12.6,1974,8,42,Norway_Lurøy_1974,ID8-42
+Norway,Lurøy,66.37,12.6,1974,8,43,Norway_Lurøy_1974,ID8-43
+Norway,Lurøy,66.37,12.6,1974,8,44,Norway_Lurøy_1974,ID8-44
+Norway,Lurøy,66.37,12.6,1974,8,45,Norway_Lurøy_1974,ID8-45
+Norway,Lurøy,66.37,12.6,1974,8,46,Norway_Lurøy_1974,ID8-46
+Norway,Lurøy,66.37,12.6,1974,8,47,Norway_Lurøy_1974,ID8-47
+Norway,Lurøy,66.37,12.6,1974,8,48,Norway_Lurøy_1974,ID8-48
+Norway,Lurøy,66.37,12.6,1974,8,49,Norway_Lurøy_1974,ID8-49
+Norway,Lurøy,66.37,12.6,1974,8,50,Norway_Lurøy_1974,ID8-50
+Norway,Lurøy,66.37,12.6,1974,8,51,Norway_Lurøy_1974,ID8-51
+Norway,Lurøy,66.37,12.6,1974,8,52,Norway_Lurøy_1974,ID8-52
+Norway,Lurøy,66.37,12.6,1974,8,53,Norway_Lurøy_1974,ID8-53
+Norway,Lurøy,66.37,12.6,1974,8,54,Norway_Lurøy_1974,ID8-54
+Norway,Lurøy,66.37,12.6,1974,8,55,Norway_Lurøy_1974,ID8-55
+Norway,Lurøy,66.37,12.6,1974,8,56,Norway_Lurøy_1974,ID8-56
+Norway,Lurøy,66.37,12.6,1974,8,57,Norway_Lurøy_1974,ID8-57
+Norway,Lurøy,66.37,12.6,1974,8,58,Norway_Lurøy_1974,ID8-58
+Norway,Lurøy,66.37,12.6,1974,8,59,Norway_Lurøy_1974,ID8-59
+Norway,Lurøy,66.37,12.6,1974,8,60,Norway_Lurøy_1974,ID8-60
+Norway,Lurøy,66.37,12.6,1974,8,61,Norway_Lurøy_1974,ID8-61
+Norway,Lurøy,66.37,12.6,1974,8,62,Norway_Lurøy_1974,ID8-62
+Norway,Lurøy,66.37,12.6,1974,8,63,Norway_Lurøy_1974,ID8-63
+Norway,Lurøy,66.37,12.6,1974,8,64,Norway_Lurøy_1974,ID8-64
+Norway,Lurøy,66.37,12.6,1974,8,65,Norway_Lurøy_1974,ID8-65
+Norway,Lurøy,66.37,12.6,1974,8,66,Norway_Lurøy_1974,ID8-66
+Norway,Lurøy,66.37,12.6,1974,8,67,Norway_Lurøy_1974,ID8-67
+Norway,Lurøy,66.37,12.6,1974,8,68,Norway_Lurøy_1974,ID8-68
+Norway,Lurøy,66.37,12.6,1974,8,69,Norway_Lurøy_1974,ID8-69
+Norway,Lurøy,66.37,12.6,1974,8,70,Norway_Lurøy_1974,ID8-70
+Norway,Lurøy,66.37,12.6,1974,8,71,Norway_Lurøy_1974,ID8-71
+Norway,Lurøy,66.37,12.6,1974,8,72,Norway_Lurøy_1974,ID8-72
+Norway,Lurøy,66.37,12.6,1974,8,73,Norway_Lurøy_1974,ID8-73
+Norway,Lurøy,66.37,12.6,1974,8,74,Norway_Lurøy_1974,ID8-74
+Norway,Lurøy,66.37,12.6,1974,8,75,Norway_Lurøy_1974,ID8-75
+Norway,Lurøy,66.37,12.6,1974,8,76,Norway_Lurøy_1974,ID8-76
+Norway,Lurøy,66.37,12.6,1974,8,77,Norway_Lurøy_1974,ID8-77
+Norway,Lurøy,66.37,12.6,1974,8,78,Norway_Lurøy_1974,ID8-78
+Norway,Lurøy,66.37,12.6,1974,8,79,Norway_Lurøy_1974,ID8-79
+Norway,Lurøy,66.37,12.6,1974,8,80,Norway_Lurøy_1974,ID8-80
+Norway,Lurøy,66.37,12.6,1974,8,81,Norway_Lurøy_1974,ID8-81
+Norway,Lurøy,66.37,12.6,1974,8,82,Norway_Lurøy_1974,ID8-82
+Norway,Lurøy,66.37,12.6,1974,8,83,Norway_Lurøy_1974,ID8-83
+Norway,Lurøy,66.37,12.6,1974,8,84,Norway_Lurøy_1974,ID8-84
+Norway,Lurøy,66.37,12.6,1974,8,85,Norway_Lurøy_1974,ID8-85
+Norway,Lurøy,66.37,12.6,1974,8,86,Norway_Lurøy_1974,ID8-86
+Norway,Lurøy,66.37,12.6,1974,8,87,Norway_Lurøy_1974,ID8-87
+Norway,Lurøy,66.37,12.6,1974,8,88,Norway_Lurøy_1974,ID8-88
+Norway,Lurøy,66.37,12.6,1974,8,89,Norway_Lurøy_1974,ID8-89
+Norway,Lurøy,66.37,12.6,1974,8,90,Norway_Lurøy_1974,ID8-90
+Norway,Lurøy,66.37,12.6,1974,8,91,Norway_Lurøy_1974,ID8-91
+Norway,Lurøy,66.37,12.6,1974,8,92,Norway_Lurøy_1974,ID8-92
+Norway,Lurøy,66.37,12.6,1974,8,93,Norway_Lurøy_1974,ID8-93
+Norway,Lurøy,66.37,12.6,1974,8,94,Norway_Lurøy_1974,ID8-94
+Norway,Lurøy,66.37,12.6,1974,8,95,Norway_Lurøy_1974,ID8-95
+Norway,Lurøy,66.37,12.6,1974,8,96,Norway_Lurøy_1974,ID8-96
+Norway,Lurøy,66.37,12.6,1974,8,97,Norway_Lurøy_1974,ID8-97
+Norway,Lurøy,66.37,12.6,1974,8,98,Norway_Lurøy_1974,ID8-98
+Norway,Lurøy,66.37,12.6,1974,8,99,Norway_Lurøy_1974,ID8-99
+Norway,Lurøy,66.37,12.6,1974,8,100,Norway_Lurøy_1974,ID8-100
+Norway,Ramsøy,60.44,5.05,,9,1,Norway_Ramsøy_na,ID9-1
+Norway,Ramsøy,60.44,5.05,,9,2,Norway_Ramsøy_na,ID9-2
+Norway,Ramsøy,60.44,5.05,,9,3,Norway_Ramsøy_na,ID9-3
+Norway,Ramsøy,60.44,5.05,,9,4,Norway_Ramsøy_na,ID9-4
+Norway,Ramsøy,60.44,5.05,,9,5,Norway_Ramsøy_na,ID9-5
+Norway,Ramsøy,60.44,5.05,,9,6,Norway_Ramsøy_na,ID9-6
+Norway,Ramsøy,60.44,5.05,,9,7,Norway_Ramsøy_na,ID9-7
+Norway,Ramsøy,60.44,5.05,,9,8,Norway_Ramsøy_na,ID9-8
+Norway,Ramsøy,60.44,5.05,,9,9,Norway_Ramsøy_na,ID9-9
+Norway,Ramsøy,60.44,5.05,,9,10,Norway_Ramsøy_na,ID9-10
+Norway,Ramsøy,60.44,5.05,,9,11,Norway_Ramsøy_na,ID9-11
+Norway,Ramsøy,60.44,5.05,,9,12,Norway_Ramsøy_na,ID9-12
+Norway,Ramsøy,60.44,5.05,,9,13,Norway_Ramsøy_na,ID9-13
+Norway,Ramsøy,60.44,5.05,,9,14,Norway_Ramsøy_na,ID9-14
+Norway,Ramsøy,60.44,5.05,,9,15,Norway_Ramsøy_na,ID9-15
+Norway,Ramsøy,60.44,5.05,,9,16,Norway_Ramsøy_na,ID9-16
+Norway,Ramsøy,60.44,5.05,,9,17,Norway_Ramsøy_na,ID9-17
+Norway,Ramsøy,60.44,5.05,,9,18,Norway_Ramsøy_na,ID9-18
+Norway,Ramsøy,60.44,5.05,,9,19,Norway_Ramsøy_na,ID9-19
+Norway,Ramsøy,60.44,5.05,,9,20,Norway_Ramsøy_na,ID9-20
+Norway,Ramsøy,60.44,5.05,,9,21,Norway_Ramsøy_na,ID9-21
+Norway,Ramsøy,60.44,5.05,,9,22,Norway_Ramsøy_na,ID9-22
+Norway,Ramsøy,60.44,5.05,,9,23,Norway_Ramsøy_na,ID9-23
+Norway,Ramsøy,60.44,5.05,,9,24,Norway_Ramsøy_na,ID9-24
+Norway,Ramsøy,60.44,5.05,,9,25,Norway_Ramsøy_na,ID9-25
+Norway,Ramsøy,60.44,5.05,,9,26,Norway_Ramsøy_na,ID9-26
+Norway,Ramsøy,60.44,5.05,,9,27,Norway_Ramsøy_na,ID9-27
+Norway,Ramsøy,60.44,5.05,,9,28,Norway_Ramsøy_na,ID9-28
+Norway,Ramsøy,60.44,5.05,,9,29,Norway_Ramsøy_na,ID9-29
+Norway,Ramsøy,60.44,5.05,,9,30,Norway_Ramsøy_na,ID9-30
+Norway,Ramsøy,60.44,5.05,,9,31,Norway_Ramsøy_na,ID9-31
+Norway,Ramsøy,60.44,5.05,,9,32,Norway_Ramsøy_na,ID9-32
+Norway,Ramsøy,60.44,5.05,,9,33,Norway_Ramsøy_na,ID9-33
+Norway,Ramsøy,60.44,5.05,,9,34,Norway_Ramsøy_na,ID9-34
+Norway,Ramsøy,60.44,5.05,,9,35,Norway_Ramsøy_na,ID9-35
+Norway,Ramsøy,60.44,5.05,,9,36,Norway_Ramsøy_na,ID9-36
+Norway,Ramsøy,60.44,5.05,,9,37,Norway_Ramsøy_na,ID9-37
+Norway,Ramsøy,60.44,5.05,,9,38,Norway_Ramsøy_na,ID9-38
+Norway,Ramsøy,60.44,5.05,,9,39,Norway_Ramsøy_na,ID9-39
+Norway,Ramsøy,60.44,5.05,,9,40,Norway_Ramsøy_na,ID9-40
+Norway,Ramsøy,60.44,5.05,,9,41,Norway_Ramsøy_na,ID9-41
+Norway,Ramsøy,60.44,5.05,,9,42,Norway_Ramsøy_na,ID9-42
+Norway,Ramsøy,60.44,5.05,,9,43,Norway_Ramsøy_na,ID9-43
+Norway,Ramsøy,60.44,5.05,,9,44,Norway_Ramsøy_na,ID9-44
+Norway,Ramsøy,60.44,5.05,,9,45,Norway_Ramsøy_na,ID9-45
+Norway,Ramsøy,60.44,5.05,,9,46,Norway_Ramsøy_na,ID9-46
+Norway,Ramsøy,60.44,5.05,,9,47,Norway_Ramsøy_na,ID9-47
+Norway,Ramsøy,60.44,5.05,,9,48,Norway_Ramsøy_na,ID9-48
+Norway,Ramsøy,60.44,5.05,,9,49,Norway_Ramsøy_na,ID9-49
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,1,Portugal_São_Martinho_do_Porto_na,ID10-1
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,2,Portugal_São_Martinho_do_Porto_na,ID10-2
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,3,Portugal_São_Martinho_do_Porto_na,ID10-3
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,4,Portugal_São_Martinho_do_Porto_na,ID10-4
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,5,Portugal_São_Martinho_do_Porto_na,ID10-5
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,6,Portugal_São_Martinho_do_Porto_na,ID10-6
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,7,Portugal_São_Martinho_do_Porto_na,ID10-7
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,8,Portugal_São_Martinho_do_Porto_na,ID10-8
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,9,Portugal_São_Martinho_do_Porto_na,ID10-9
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,10,Portugal_São_Martinho_do_Porto_na,ID10-10
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,11,Portugal_São_Martinho_do_Porto_na,ID10-11
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,12,Portugal_São_Martinho_do_Porto_na,ID10-12
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,13,Portugal_São_Martinho_do_Porto_na,ID10-13
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,14,Portugal_São_Martinho_do_Porto_na,ID10-14
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,15,Portugal_São_Martinho_do_Porto_na,ID10-15
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,16,Portugal_São_Martinho_do_Porto_na,ID10-16
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,17,Portugal_São_Martinho_do_Porto_na,ID10-17
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,18,Portugal_São_Martinho_do_Porto_na,ID10-18
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,19,Portugal_São_Martinho_do_Porto_na,ID10-19
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,20,Portugal_São_Martinho_do_Porto_na,ID10-20
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,21,Portugal_São_Martinho_do_Porto_na,ID10-21
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,22,Portugal_São_Martinho_do_Porto_na,ID10-22
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,23,Portugal_São_Martinho_do_Porto_na,ID10-23
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,24,Portugal_São_Martinho_do_Porto_na,ID10-24
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,25,Portugal_São_Martinho_do_Porto_na,ID10-25
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,26,Portugal_São_Martinho_do_Porto_na,ID10-26
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,27,Portugal_São_Martinho_do_Porto_na,ID10-27
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,28,Portugal_São_Martinho_do_Porto_na,ID10-28
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,29,Portugal_São_Martinho_do_Porto_na,ID10-29
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,30,Portugal_São_Martinho_do_Porto_na,ID10-30
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,31,Portugal_São_Martinho_do_Porto_na,ID10-31
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,32,Portugal_São_Martinho_do_Porto_na,ID10-32
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,33,Portugal_São_Martinho_do_Porto_na,ID10-33
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,34,Portugal_São_Martinho_do_Porto_na,ID10-34
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,35,Portugal_São_Martinho_do_Porto_na,ID10-35
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,36,Portugal_São_Martinho_do_Porto_na,ID10-36
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,37,Portugal_São_Martinho_do_Porto_na,ID10-37
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,38,Portugal_São_Martinho_do_Porto_na,ID10-38
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,39,Portugal_São_Martinho_do_Porto_na,ID10-39
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,40,Portugal_São_Martinho_do_Porto_na,ID10-40
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,41,Portugal_São_Martinho_do_Porto_na,ID10-41
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,42,Portugal_São_Martinho_do_Porto_na,ID10-42
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,43,Portugal_São_Martinho_do_Porto_na,ID10-43
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,44,Portugal_São_Martinho_do_Porto_na,ID10-44
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,45,Portugal_São_Martinho_do_Porto_na,ID10-45
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,46,Portugal_São_Martinho_do_Porto_na,ID10-46
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,47,Portugal_São_Martinho_do_Porto_na,ID10-47
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,48,Portugal_São_Martinho_do_Porto_na,ID10-48
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,49,Portugal_São_Martinho_do_Porto_na,ID10-49
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,50,Portugal_São_Martinho_do_Porto_na,ID10-50
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,51,Portugal_São_Martinho_do_Porto_na,ID10-51
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,52,Portugal_São_Martinho_do_Porto_na,ID10-52
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,53,Portugal_São_Martinho_do_Porto_na,ID10-53
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,54,Portugal_São_Martinho_do_Porto_na,ID10-54
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,55,Portugal_São_Martinho_do_Porto_na,ID10-55
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,56,Portugal_São_Martinho_do_Porto_na,ID10-56
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,57,Portugal_São_Martinho_do_Porto_na,ID10-57
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,58,Portugal_São_Martinho_do_Porto_na,ID10-58
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,59,Portugal_São_Martinho_do_Porto_na,ID10-59
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,60,Portugal_São_Martinho_do_Porto_na,ID10-60
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,61,Portugal_São_Martinho_do_Porto_na,ID10-61
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,62,Portugal_São_Martinho_do_Porto_na,ID10-62
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,63,Portugal_São_Martinho_do_Porto_na,ID10-63
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,64,Portugal_São_Martinho_do_Porto_na,ID10-64
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,65,Portugal_São_Martinho_do_Porto_na,ID10-65
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,66,Portugal_São_Martinho_do_Porto_na,ID10-66
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,67,Portugal_São_Martinho_do_Porto_na,ID10-67
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,68,Portugal_São_Martinho_do_Porto_na,ID10-68
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,69,Portugal_São_Martinho_do_Porto_na,ID10-69
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,70,Portugal_São_Martinho_do_Porto_na,ID10-70
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,71,Portugal_São_Martinho_do_Porto_na,ID10-71
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,72,Portugal_São_Martinho_do_Porto_na,ID10-72
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,73,Portugal_São_Martinho_do_Porto_na,ID10-73
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,74,Portugal_São_Martinho_do_Porto_na,ID10-74
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,75,Portugal_São_Martinho_do_Porto_na,ID10-75
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,76,Portugal_São_Martinho_do_Porto_na,ID10-76
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,77,Portugal_São_Martinho_do_Porto_na,ID10-77
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,78,Portugal_São_Martinho_do_Porto_na,ID10-78
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,79,Portugal_São_Martinho_do_Porto_na,ID10-79
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,80,Portugal_São_Martinho_do_Porto_na,ID10-80
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,81,Portugal_São_Martinho_do_Porto_na,ID10-81
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,82,Portugal_São_Martinho_do_Porto_na,ID10-82
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,83,Portugal_São_Martinho_do_Porto_na,ID10-83
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,84,Portugal_São_Martinho_do_Porto_na,ID10-84
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,85,Portugal_São_Martinho_do_Porto_na,ID10-85
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,86,Portugal_São_Martinho_do_Porto_na,ID10-86
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,87,Portugal_São_Martinho_do_Porto_na,ID10-87
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,88,Portugal_São_Martinho_do_Porto_na,ID10-88
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,89,Portugal_São_Martinho_do_Porto_na,ID10-89
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,90,Portugal_São_Martinho_do_Porto_na,ID10-90
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,91,Portugal_São_Martinho_do_Porto_na,ID10-91
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,92,Portugal_São_Martinho_do_Porto_na,ID10-92
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,93,Portugal_São_Martinho_do_Porto_na,ID10-93
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,94,Portugal_São_Martinho_do_Porto_na,ID10-94
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,95,Portugal_São_Martinho_do_Porto_na,ID10-95
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,96,Portugal_São_Martinho_do_Porto_na,ID10-96
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,97,Portugal_São_Martinho_do_Porto_na,ID10-97
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,98,Portugal_São_Martinho_do_Porto_na,ID10-98
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,99,Portugal_São_Martinho_do_Porto_na,ID10-99
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,100,Portugal_São_Martinho_do_Porto_na,ID10-100
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,101,Portugal_São_Martinho_do_Porto_na,ID10-101
+Portugal,São Martinho do Porto,39.52,-9.14,1972,10,102,Portugal_São_Martinho_do_Porto_na,ID10-102
+Spain,Redondela,42.29,-8.63,1972,11,1,Spain_Redondela_1971,ID11-1
+Spain,Redondela,42.29,-8.63,1972,11,2,Spain_Redondela_1971,ID11-2
+Spain,Redondela,42.29,-8.63,1972,11,3,Spain_Redondela_1971,ID11-3
+Spain,Redondela,42.29,-8.63,1972,11,4,Spain_Redondela_1971,ID11-4
+Spain,Redondela,42.29,-8.63,1972,11,5,Spain_Redondela_1971,ID11-5
+Spain,Redondela,42.29,-8.63,1972,11,6,Spain_Redondela_1971,ID11-6
+Spain,Redondela,42.29,-8.63,1972,11,7,Spain_Redondela_1971,ID11-7
+Spain,Redondela,42.29,-8.63,1972,11,8,Spain_Redondela_1971,ID11-8
+Spain,Redondela,42.29,-8.63,1972,11,9,Spain_Redondela_1971,ID11-9
+Spain,Redondela,42.29,-8.63,1972,11,10,Spain_Redondela_1971,ID11-10
+Spain,Redondela,42.29,-8.63,1972,11,11,Spain_Redondela_1971,ID11-11
+Spain,Redondela,42.29,-8.63,1972,11,12,Spain_Redondela_1971,ID11-12
+Spain,Redondela,42.29,-8.63,1972,11,13,Spain_Redondela_1971,ID11-13
+Spain,Redondela,42.29,-8.63,1972,11,14,Spain_Redondela_1971,ID11-14
+Spain,Redondela,42.29,-8.63,1972,11,15,Spain_Redondela_1971,ID11-15
+Spain,Redondela,42.29,-8.63,1972,11,16,Spain_Redondela_1971,ID11-16
+Spain,Redondela,42.29,-8.63,1972,11,17,Spain_Redondela_1971,ID11-17
+Spain,Redondela,42.29,-8.63,1972,11,18,Spain_Redondela_1971,ID11-18
+Spain,Redondela,42.29,-8.63,1972,11,19,Spain_Redondela_1971,ID11-19
+Spain,Redondela,42.29,-8.63,1972,11,20,Spain_Redondela_1971,ID11-20
+Spain,Redondela,42.29,-8.63,1972,11,21,Spain_Redondela_1971,ID11-21
+Spain,Redondela,42.29,-8.63,1972,11,22,Spain_Redondela_1971,ID11-22
+Spain,Redondela,42.29,-8.63,1972,11,23,Spain_Redondela_1971,ID11-23
+Spain,Redondela,42.29,-8.63,1972,11,24,Spain_Redondela_1971,ID11-24
+Spain,Redondela,42.29,-8.63,1972,11,25,Spain_Redondela_1971,ID11-25
+Spain,Redondela,42.29,-8.63,1972,11,26,Spain_Redondela_1971,ID11-26
+Spain,Redondela,42.29,-8.63,1972,11,27,Spain_Redondela_1971,ID11-27
+Spain,Redondela,42.29,-8.63,1972,11,28,Spain_Redondela_1971,ID11-28
+Spain,Redondela,42.29,-8.63,1972,11,29,Spain_Redondela_1971,ID11-29
+Spain,Redondela,42.29,-8.63,1972,11,30,Spain_Redondela_1971,ID11-30
+Spain,Redondela,42.29,-8.63,1972,11,31,Spain_Redondela_1971,ID11-31
+Spain,Redondela,42.29,-8.63,1972,11,32,Spain_Redondela_1971,ID11-32
+Spain,Redondela,42.29,-8.63,1972,11,33,Spain_Redondela_1971,ID11-33
+Spain,Redondela,42.29,-8.63,1972,11,34,Spain_Redondela_1971,ID11-34
+Spain,Redondela,42.29,-8.63,1972,11,35,Spain_Redondela_1971,ID11-35
+Spain,Redondela,42.29,-8.63,1972,11,36,Spain_Redondela_1971,ID11-36
+Spain,Redondela,42.29,-8.63,1972,11,37,Spain_Redondela_1971,ID11-37
+Spain,Redondela,42.29,-8.63,1972,11,38,Spain_Redondela_1971,ID11-38
+Spain,Redondela,42.29,-8.63,1972,11,39,Spain_Redondela_1971,ID11-39
+Spain,Redondela,42.29,-8.63,1972,11,40,Spain_Redondela_1971,ID11-40
+Spain,Redondela,42.29,-8.63,1972,11,41,Spain_Redondela_1971,ID11-41
+Spain,Redondela,42.29,-8.63,1972,11,42,Spain_Redondela_1971,ID11-42
+Spain,Redondela,42.29,-8.63,1972,11,43,Spain_Redondela_1971,ID11-43
+Spain,Redondela,42.29,-8.63,1972,11,44,Spain_Redondela_1971,ID11-44
+Spain,Redondela,42.29,-8.63,1972,11,45,Spain_Redondela_1971,ID11-45
+Spain,Redondela,42.29,-8.63,1972,11,46,Spain_Redondela_1971,ID11-46
+Spain,Redondela,42.29,-8.63,1972,11,47,Spain_Redondela_1971,ID11-47
+Spain,Redondela,42.29,-8.63,1972,11,48,Spain_Redondela_1971,ID11-48
+Spain,Redondela,42.29,-8.63,1972,11,49,Spain_Redondela_1971,ID11-49
+Spain,Redondela,42.29,-8.63,1972,11,50,Spain_Redondela_1971,ID11-50
+Spain,Redondela,42.29,-8.63,1972,11,51,Spain_Redondela_1971,ID11-51
+Spain,Redondela,42.29,-8.63,1972,11,52,Spain_Redondela_1971,ID11-52
+Spain,Redondela,42.29,-8.63,1972,11,53,Spain_Redondela_1971,ID11-53
+Spain,Redondela,42.29,-8.63,1972,11,54,Spain_Redondela_1971,ID11-54
+Spain,Redondela,42.29,-8.63,1972,11,55,Spain_Redondela_1971,ID11-55
+Spain,Redondela,42.29,-8.63,1972,11,56,Spain_Redondela_1971,ID11-56
+Spain,Redondela,42.29,-8.63,1972,11,57,Spain_Redondela_1971,ID11-57
+Spain,Redondela,42.29,-8.63,1972,11,58,Spain_Redondela_1971,ID11-58
+Spain,Redondela,42.29,-8.63,1972,11,59,Spain_Redondela_1971,ID11-59
+Spain,Redondela,42.29,-8.63,1972,11,60,Spain_Redondela_1971,ID11-60
+Spain,Redondela,42.29,-8.63,1972,11,61,Spain_Redondela_1971,ID11-61
+Spain,Redondela,42.29,-8.63,1972,11,62,Spain_Redondela_1971,ID11-62
+Spain,Redondela,42.29,-8.63,1972,11,63,Spain_Redondela_1971,ID11-63
+Spain,Redondela,42.29,-8.63,1972,11,64,Spain_Redondela_1971,ID11-64
+Spain,Redondela,42.29,-8.63,1972,11,65,Spain_Redondela_1971,ID11-65
+Spain,Redondela,42.29,-8.63,1972,11,66,Spain_Redondela_1971,ID11-66
+Spain,Redondela,42.29,-8.63,1972,11,67,Spain_Redondela_1971,ID11-67
+Spain,Redondela,42.29,-8.63,1972,11,68,Spain_Redondela_1971,ID11-68
+Spain,Redondela,42.29,-8.63,1972,11,69,Spain_Redondela_1971,ID11-69
+Spain,Redondela,42.29,-8.63,1972,11,70,Spain_Redondela_1971,ID11-70
+Spain,Redondela,42.29,-8.63,1972,11,71,Spain_Redondela_1971,ID11-71
+Spain,Redondela,42.29,-8.63,1972,11,72,Spain_Redondela_1971,ID11-72
+Spain,Redondela,42.29,-8.63,1972,11,73,Spain_Redondela_1971,ID11-73
+Spain,Redondela,42.29,-8.63,1972,11,74,Spain_Redondela_1971,ID11-74
+Spain,Redondela,42.29,-8.63,1972,11,75,Spain_Redondela_1971,ID11-75
+Spain,Redondela,42.29,-8.63,1972,11,76,Spain_Redondela_1971,ID11-76
+Spain,Redondela,42.29,-8.63,1972,11,77,Spain_Redondela_1971,ID11-77
+Spain,Redondela,42.29,-8.63,1972,11,78,Spain_Redondela_1971,ID11-78
+Spain,Redondela,42.29,-8.63,1972,11,79,Spain_Redondela_1971,ID11-79
+Spain,Redondela,42.29,-8.63,1972,11,80,Spain_Redondela_1971,ID11-80
+Spain,Redondela,42.29,-8.63,1972,11,81,Spain_Redondela_1971,ID11-81
+Spain,Redondela,42.29,-8.63,1972,11,82,Spain_Redondela_1971,ID11-82
+Spain,Redondela,42.29,-8.63,1972,11,83,Spain_Redondela_1971,ID11-83
+Spain,Redondela,42.29,-8.63,1972,11,84,Spain_Redondela_1971,ID11-84
+Spain,Redondela,42.29,-8.63,1972,11,85,Spain_Redondela_1971,ID11-85
+Spain,Redondela,42.29,-8.63,1972,11,86,Spain_Redondela_1971,ID11-86
+Spain,Redondela,42.29,-8.63,1972,11,87,Spain_Redondela_1971,ID11-87
+Spain,Redondela,42.29,-8.63,1972,11,88,Spain_Redondela_1971,ID11-88
+Spain,Redondela,42.29,-8.63,1972,11,89,Spain_Redondela_1971,ID11-89
+Spain,Redondela,42.29,-8.63,1972,11,90,Spain_Redondela_1971,ID11-90
+Spain,Redondela,42.29,-8.63,1972,11,91,Spain_Redondela_1971,ID11-91
+Spain,Redondela,42.29,-8.63,1972,11,92,Spain_Redondela_1971,ID11-92
+Spain,Redondela,42.29,-8.63,1972,11,93,Spain_Redondela_1971,ID11-93
+Spain,Redondela,42.29,-8.63,1972,11,94,Spain_Redondela_1971,ID11-94
+Spain,Redondela,42.29,-8.63,1972,11,95,Spain_Redondela_1971,ID11-95
+Spain,Redondela,42.29,-8.63,1972,11,96,Spain_Redondela_1971,ID11-96
+Spain,Redondela,42.29,-8.63,1972,11,97,Spain_Redondela_1971,ID11-97
+Spain,Redondela,42.29,-8.63,1972,11,98,Spain_Redondela_1971,ID11-98
+Spain,Redondela,42.29,-8.63,1972,11,99,Spain_Redondela_1971,ID11-99
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,1,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-1
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,2,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-2
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,3,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-3
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,4,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-4
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,5,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-5
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,6,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-6
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,7,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-7
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,8,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-8
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,9,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-9
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,10,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-10
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,11,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-11
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,12,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-12
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,13,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-13
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,14,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-14
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,15,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-15
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,16,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-16
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,17,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-17
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,18,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-18
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,19,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-19
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,20,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-20
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,21,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-21
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,22,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-22
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,23,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-23
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,24,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-24
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,25,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-25
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,26,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-26
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,27,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-27
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,28,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-28
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,29,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-29
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,30,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-30
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,31,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-31
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,32,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-32
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,33,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-33
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,34,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-34
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,35,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-35
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,36,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-36
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,37,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-37
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,38,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-38
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,39,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-39
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,40,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-40
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,41,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-41
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,42,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-42
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,43,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-43
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,44,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-44
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,45,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-45
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,46,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-46
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,47,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-47
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,48,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-48
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,49,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-49
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,50,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-50
+United Kingdom,Mavis Grind (East),60.39,-1.38,1976,12,51,United Kingdom_Shetland_Mavis_Grind_East_1976,ID12-51
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,1,United Kingodm_Berwick_upon_Tweed_1970,ID13-1
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,2,United Kingodm_Berwick_upon_Tweed_1970,ID13-2
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,3,United Kingodm_Berwick_upon_Tweed_1970,ID13-3
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,4,United Kingodm_Berwick_upon_Tweed_1970,ID13-4
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,5,United Kingodm_Berwick_upon_Tweed_1970,ID13-5
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,6,United Kingodm_Berwick_upon_Tweed_1970,ID13-6
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,7,United Kingodm_Berwick_upon_Tweed_1970,ID13-7
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,8,United Kingodm_Berwick_upon_Tweed_1970,ID13-8
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,9,United Kingodm_Berwick_upon_Tweed_1970,ID13-9
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,10,United Kingodm_Berwick_upon_Tweed_1970,ID13-10
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,11,United Kingodm_Berwick_upon_Tweed_1970,ID13-11
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,12,United Kingodm_Berwick_upon_Tweed_1970,ID13-12
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,13,United Kingodm_Berwick_upon_Tweed_1970,ID13-13
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,14,United Kingodm_Berwick_upon_Tweed_1970,ID13-14
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,15,United Kingodm_Berwick_upon_Tweed_1970,ID13-15
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,16,United Kingodm_Berwick_upon_Tweed_1970,ID13-16
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,17,United Kingodm_Berwick_upon_Tweed_1970,ID13-17
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,18,United Kingodm_Berwick_upon_Tweed_1970,ID13-18
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,19,United Kingodm_Berwick_upon_Tweed_1970,ID13-19
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,20,United Kingodm_Berwick_upon_Tweed_1970,ID13-20
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,21,United Kingodm_Berwick_upon_Tweed_1970,ID13-21
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,22,United Kingodm_Berwick_upon_Tweed_1970,ID13-22
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,23,United Kingodm_Berwick_upon_Tweed_1970,ID13-23
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,24,United Kingodm_Berwick_upon_Tweed_1970,ID13-24
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,25,United Kingodm_Berwick_upon_Tweed_1970,ID13-25
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,26,United Kingodm_Berwick_upon_Tweed_1970,ID13-26
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,27,United Kingodm_Berwick_upon_Tweed_1970,ID13-27
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,28,United Kingodm_Berwick_upon_Tweed_1970,ID13-28
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,29,United Kingodm_Berwick_upon_Tweed_1970,ID13-29
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,30,United Kingodm_Berwick_upon_Tweed_1970,ID13-30
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,31,United Kingodm_Berwick_upon_Tweed_1970,ID13-31
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,32,United Kingodm_Berwick_upon_Tweed_1970,ID13-32
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,33,United Kingodm_Berwick_upon_Tweed_1970,ID13-33
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,34,United Kingodm_Berwick_upon_Tweed_1970,ID13-34
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,35,United Kingodm_Berwick_upon_Tweed_1970,ID13-35
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,36,United Kingodm_Berwick_upon_Tweed_1970,ID13-36
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,37,United Kingodm_Berwick_upon_Tweed_1970,ID13-37
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,38,United Kingodm_Berwick_upon_Tweed_1970,ID13-38
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,39,United Kingodm_Berwick_upon_Tweed_1970,ID13-39
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,40,United Kingodm_Berwick_upon_Tweed_1970,ID13-40
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,41,United Kingodm_Berwick_upon_Tweed_1970,ID13-41
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,42,United Kingodm_Berwick_upon_Tweed_1970,ID13-42
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,43,United Kingodm_Berwick_upon_Tweed_1970,ID13-43
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,44,United Kingodm_Berwick_upon_Tweed_1970,ID13-44
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,45,United Kingodm_Berwick_upon_Tweed_1970,ID13-45
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,46,United Kingodm_Berwick_upon_Tweed_1970,ID13-46
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,47,United Kingodm_Berwick_upon_Tweed_1970,ID13-47
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,48,United Kingodm_Berwick_upon_Tweed_1970,ID13-48
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,49,United Kingodm_Berwick_upon_Tweed_1970,ID13-49
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,50,United Kingodm_Berwick_upon_Tweed_1970,ID13-50
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,51,United Kingodm_Berwick_upon_Tweed_1970,ID13-51
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,52,United Kingodm_Berwick_upon_Tweed_1970,ID13-52
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,53,United Kingodm_Berwick_upon_Tweed_1970,ID13-53
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,54,United Kingodm_Berwick_upon_Tweed_1970,ID13-54
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,55,United Kingodm_Berwick_upon_Tweed_1970,ID13-55
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,56,United Kingodm_Berwick_upon_Tweed_1970,ID13-56
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,57,United Kingodm_Berwick_upon_Tweed_1970,ID13-57
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,58,United Kingodm_Berwick_upon_Tweed_1970,ID13-58
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,59,United Kingodm_Berwick_upon_Tweed_1970,ID13-59
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,60,United Kingodm_Berwick_upon_Tweed_1970,ID13-60
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,61,United Kingodm_Berwick_upon_Tweed_1970,ID13-61
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,62,United Kingodm_Berwick_upon_Tweed_1970,ID13-62
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,63,United Kingodm_Berwick_upon_Tweed_1970,ID13-63
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,64,United Kingodm_Berwick_upon_Tweed_1970,ID13-64
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,65,United Kingodm_Berwick_upon_Tweed_1970,ID13-65
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,66,United Kingodm_Berwick_upon_Tweed_1970,ID13-66
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,67,United Kingodm_Berwick_upon_Tweed_1970,ID13-67
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,68,United Kingodm_Berwick_upon_Tweed_1970,ID13-68
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,69,United Kingodm_Berwick_upon_Tweed_1970,ID13-69
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,70,United Kingodm_Berwick_upon_Tweed_1970,ID13-70
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,71,United Kingodm_Berwick_upon_Tweed_1970,ID13-71
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,72,United Kingodm_Berwick_upon_Tweed_1970,ID13-72
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,73,United Kingodm_Berwick_upon_Tweed_1970,ID13-73
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,74,United Kingodm_Berwick_upon_Tweed_1970,ID13-74
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,75,United Kingodm_Berwick_upon_Tweed_1970,ID13-75
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,76,United Kingodm_Berwick_upon_Tweed_1970,ID13-76
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,77,United Kingodm_Berwick_upon_Tweed_1970,ID13-77
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,78,United Kingodm_Berwick_upon_Tweed_1970,ID13-78
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,79,United Kingodm_Berwick_upon_Tweed_1970,ID13-79
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,80,United Kingodm_Berwick_upon_Tweed_1970,ID13-80
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,81,United Kingodm_Berwick_upon_Tweed_1970,ID13-81
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,82,United Kingodm_Berwick_upon_Tweed_1970,ID13-82
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,83,United Kingodm_Berwick_upon_Tweed_1970,ID13-83
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,84,United Kingodm_Berwick_upon_Tweed_1970,ID13-84
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,85,United Kingodm_Berwick_upon_Tweed_1970,ID13-85
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,86,United Kingodm_Berwick_upon_Tweed_1970,ID13-86
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,87,United Kingodm_Berwick_upon_Tweed_1970,ID13-87
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,88,United Kingodm_Berwick_upon_Tweed_1970,ID13-88
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,89,United Kingodm_Berwick_upon_Tweed_1970,ID13-89
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,90,United Kingodm_Berwick_upon_Tweed_1970,ID13-90
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,91,United Kingodm_Berwick_upon_Tweed_1970,ID13-91
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,92,United Kingodm_Berwick_upon_Tweed_1970,ID13-92
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,93,United Kingodm_Berwick_upon_Tweed_1970,ID13-93
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,94,United Kingodm_Berwick_upon_Tweed_1970,ID13-94
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,95,United Kingodm_Berwick_upon_Tweed_1970,ID13-95
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,96,United Kingodm_Berwick_upon_Tweed_1970,ID13-96
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,97,United Kingodm_Berwick_upon_Tweed_1970,ID13-97
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,98,United Kingodm_Berwick_upon_Tweed_1970,ID13-98
+United Kingdom,Berwick upon Tweed,55.77,-1.99,1970,13,99,United Kingodm_Berwick_upon_Tweed_1970,ID13-99
+Denmark,Suðuroy,61.52,-6.78,1981,14,1,United_Kingdom_Färöer_Suðuroy_1980,ID14-1
+Denmark,Suðuroy,61.52,-6.78,1981,14,2,United_Kingdom_Färöer_Suðuroy_1980,ID14-2
+Denmark,Suðuroy,61.52,-6.78,1981,14,3,United_Kingdom_Färöer_Suðuroy_1980,ID14-3
+Denmark,Suðuroy,61.52,-6.78,1981,14,4,United_Kingdom_Färöer_Suðuroy_1980,ID14-4
+Denmark,Suðuroy,61.52,-6.78,1981,14,5,United_Kingdom_Färöer_Suðuroy_1980,ID14-5
+Denmark,Suðuroy,61.52,-6.78,1981,14,6,United_Kingdom_Färöer_Suðuroy_1980,ID14-6
+Denmark,Suðuroy,61.52,-6.78,1981,14,7,United_Kingdom_Färöer_Suðuroy_1980,ID14-7
+Denmark,Suðuroy,61.52,-6.78,1981,14,8,United_Kingdom_Färöer_Suðuroy_1980,ID14-8
+Denmark,Suðuroy,61.52,-6.78,1981,14,9,United_Kingdom_Färöer_Suðuroy_1980,ID14-9
+Denmark,Suðuroy,61.52,-6.78,1981,14,10,United_Kingdom_Färöer_Suðuroy_1980,ID14-10
+Denmark,Suðuroy,61.52,-6.78,1981,14,11,United_Kingdom_Färöer_Suðuroy_1980,ID14-11
+Denmark,Suðuroy,61.52,-6.78,1981,14,12,United_Kingdom_Färöer_Suðuroy_1980,ID14-12
+Denmark,Suðuroy,61.52,-6.78,1981,14,13,United_Kingdom_Färöer_Suðuroy_1980,ID14-13
+Denmark,Suðuroy,61.52,-6.78,1981,14,14,United_Kingdom_Färöer_Suðuroy_1980,ID14-14
+Denmark,Suðuroy,61.52,-6.78,1981,14,15,United_Kingdom_Färöer_Suðuroy_1980,ID14-15
+Denmark,Suðuroy,61.52,-6.78,1981,14,16,United_Kingdom_Färöer_Suðuroy_1980,ID14-16
+Denmark,Suðuroy,61.52,-6.78,1981,14,17,United_Kingdom_Färöer_Suðuroy_1980,ID14-17
+Denmark,Suðuroy,61.52,-6.78,1981,14,18,United_Kingdom_Färöer_Suðuroy_1980,ID14-18
+Denmark,Suðuroy,61.52,-6.78,1981,14,19,United_Kingdom_Färöer_Suðuroy_1980,ID14-19
+Denmark,Suðuroy,61.52,-6.78,1981,14,20,United_Kingdom_Färöer_Suðuroy_1980,ID14-20
+Denmark,Suðuroy,61.52,-6.78,1981,14,21,United_Kingdom_Färöer_Suðuroy_1980,ID14-21
+Denmark,Suðuroy,61.52,-6.78,1981,14,22,United_Kingdom_Färöer_Suðuroy_1980,ID14-22
+Denmark,Suðuroy,61.52,-6.78,1981,14,23,United_Kingdom_Färöer_Suðuroy_1980,ID14-23
+Denmark,Suðuroy,61.52,-6.78,1981,14,24,United_Kingdom_Färöer_Suðuroy_1980,ID14-24
+Denmark,Suðuroy,61.52,-6.78,1981,14,25,United_Kingdom_Färöer_Suðuroy_1980,ID14-25
+Denmark,Suðuroy,61.52,-6.78,1981,14,26,United_Kingdom_Färöer_Suðuroy_1980,ID14-26
+Denmark,Suðuroy,61.52,-6.78,1981,14,27,United_Kingdom_Färöer_Suðuroy_1980,ID14-27
+Denmark,Suðuroy,61.52,-6.78,1981,14,28,United_Kingdom_Färöer_Suðuroy_1980,ID14-28
+Denmark,Suðuroy,61.52,-6.78,1981,14,29,United_Kingdom_Färöer_Suðuroy_1980,ID14-29
+Denmark,Suðuroy,61.52,-6.78,1981,14,30,United_Kingdom_Färöer_Suðuroy_1980,ID14-30
+Denmark,Suðuroy,61.52,-6.78,1981,14,31,United_Kingdom_Färöer_Suðuroy_1980,ID14-31
+Denmark,Suðuroy,61.52,-6.78,1981,14,32,United_Kingdom_Färöer_Suðuroy_1980,ID14-32
+Denmark,Suðuroy,61.52,-6.78,1981,14,33,United_Kingdom_Färöer_Suðuroy_1980,ID14-33
+Denmark,Suðuroy,61.52,-6.78,1981,14,34,United_Kingdom_Färöer_Suðuroy_1980,ID14-34
+Denmark,Suðuroy,61.52,-6.78,1981,14,35,United_Kingdom_Färöer_Suðuroy_1980,ID14-35
+Denmark,Suðuroy,61.52,-6.78,1981,14,36,United_Kingdom_Färöer_Suðuroy_1980,ID14-36
+Denmark,Suðuroy,61.52,-6.78,1981,14,37,United_Kingdom_Färöer_Suðuroy_1980,ID14-37
+Denmark,Suðuroy,61.52,-6.78,1981,14,38,United_Kingdom_Färöer_Suðuroy_1980,ID14-38
+Denmark,Suðuroy,61.52,-6.78,1981,14,39,United_Kingdom_Färöer_Suðuroy_1980,ID14-39
+Denmark,Suðuroy,61.52,-6.78,1981,14,40,United_Kingdom_Färöer_Suðuroy_1980,ID14-40
+Denmark,Suðuroy,61.52,-6.78,1981,14,41,United_Kingdom_Färöer_Suðuroy_1980,ID14-41
+Denmark,Suðuroy,61.52,-6.78,1981,14,42,United_Kingdom_Färöer_Suðuroy_1980,ID14-42
+Denmark,Suðuroy,61.52,-6.78,1981,14,43,United_Kingdom_Färöer_Suðuroy_1980,ID14-43
+Denmark,Suðuroy,61.52,-6.78,1981,14,44,United_Kingdom_Färöer_Suðuroy_1980,ID14-44
+Denmark,Suðuroy,61.52,-6.78,1981,14,45,United_Kingdom_Färöer_Suðuroy_1980,ID14-45
+Denmark,Suðuroy,61.52,-6.78,1981,14,46,United_Kingdom_Färöer_Suðuroy_1980,ID14-46
+Denmark,Suðuroy,61.52,-6.78,1981,14,47,United_Kingdom_Färöer_Suðuroy_1980,ID14-47
+Denmark,Suðuroy,61.52,-6.78,1981,14,48,United_Kingdom_Färöer_Suðuroy_1980,ID14-48
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,1,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-1
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,2,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-2
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,3,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-3
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,4,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-4
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,5,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-5
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,6,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-6
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,7,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-7
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,8,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-8
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,9,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-9
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,10,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-10
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,11,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-11
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,12,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-12
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,13,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-13
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,14,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-14
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,15,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-15
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,16,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-16
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,17,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-17
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,18,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-18
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,19,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-19
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,20,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-20
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,21,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-21
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,22,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-22
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,23,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-23
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,24,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-24
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,25,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-25
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,26,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-26
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,27,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-27
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,28,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-28
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,29,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-29
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,30,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-30
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,31,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-31
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,32,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-32
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,33,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-33
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,34,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-34
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,35,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-35
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,36,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-36
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,37,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-37
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,38,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-38
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,39,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-39
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,40,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-40
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,41,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-41
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,42,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-42
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,43,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-43
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,44,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-44
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,45,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-45
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,46,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-46
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,47,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-47
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,48,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-48
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,49,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-49
+Denmark,Tjørnuvík,62.3,-7.14,1980,15,50,United_Kingdom_Färöer_Tjørnuvík_1980,ID15-50
+United Kingdom,Mumbles,51.56,-3.98,1973,16,1,United_Kingdom_Mumbles_1972,ID16-1
+United Kingdom,Mumbles,51.56,-3.98,1973,16,2,United_Kingdom_Mumbles_1972,ID16-2
+United Kingdom,Mumbles,51.56,-3.98,1973,16,3,United_Kingdom_Mumbles_1972,ID16-3
+United Kingdom,Mumbles,51.56,-3.98,1973,16,4,United_Kingdom_Mumbles_1972,ID16-4
+United Kingdom,Mumbles,51.56,-3.98,1973,16,5,United_Kingdom_Mumbles_1972,ID16-5
+United Kingdom,Mumbles,51.56,-3.98,1973,16,6,United_Kingdom_Mumbles_1972,ID16-6
+United Kingdom,Mumbles,51.56,-3.98,1973,16,7,United_Kingdom_Mumbles_1972,ID16-7
+United Kingdom,Mumbles,51.56,-3.98,1973,16,8,United_Kingdom_Mumbles_1972,ID16-8
+United Kingdom,Mumbles,51.56,-3.98,1973,16,9,United_Kingdom_Mumbles_1972,ID16-9
+United Kingdom,Mumbles,51.56,-3.98,1973,16,10,United_Kingdom_Mumbles_1972,ID16-10
+United Kingdom,Mumbles,51.56,-3.98,1973,16,11,United_Kingdom_Mumbles_1972,ID16-11
+United Kingdom,Mumbles,51.56,-3.98,1973,16,12,United_Kingdom_Mumbles_1972,ID16-12
+United Kingdom,Mumbles,51.56,-3.98,1973,16,13,United_Kingdom_Mumbles_1972,ID16-13
+United Kingdom,Mumbles,51.56,-3.98,1973,16,14,United_Kingdom_Mumbles_1972,ID16-14
+United Kingdom,Mumbles,51.56,-3.98,1973,16,15,United_Kingdom_Mumbles_1972,ID16-15
+United Kingdom,Mumbles,51.56,-3.98,1973,16,16,United_Kingdom_Mumbles_1972,ID16-16
+United Kingdom,Mumbles,51.56,-3.98,1973,16,17,United_Kingdom_Mumbles_1972,ID16-17
+United Kingdom,Mumbles,51.56,-3.98,1973,16,18,United_Kingdom_Mumbles_1972,ID16-18
+United Kingdom,Mumbles,51.56,-3.98,1973,16,19,United_Kingdom_Mumbles_1972,ID16-19
+United Kingdom,Mumbles,51.56,-3.98,1973,16,20,United_Kingdom_Mumbles_1972,ID16-20
+United Kingdom,Mumbles,51.56,-3.98,1973,16,21,United_Kingdom_Mumbles_1972,ID16-21
+United Kingdom,Mumbles,51.56,-3.98,1973,16,22,United_Kingdom_Mumbles_1972,ID16-22
+United Kingdom,Mumbles,51.56,-3.98,1973,16,23,United_Kingdom_Mumbles_1972,ID16-23
+United Kingdom,Mumbles,51.56,-3.98,1973,16,24,United_Kingdom_Mumbles_1972,ID16-24
+United Kingdom,Mumbles,51.56,-3.98,1973,16,25,United_Kingdom_Mumbles_1972,ID16-25
+United Kingdom,Mumbles,51.56,-3.98,1973,16,26,United_Kingdom_Mumbles_1972,ID16-26
+United Kingdom,Mumbles,51.56,-3.98,1973,16,27,United_Kingdom_Mumbles_1972,ID16-27
+United Kingdom,Mumbles,51.56,-3.98,1973,16,28,United_Kingdom_Mumbles_1972,ID16-28
+United Kingdom,Mumbles,51.56,-3.98,1973,16,29,United_Kingdom_Mumbles_1972,ID16-29
+United Kingdom,Mumbles,51.56,-3.98,1973,16,30,United_Kingdom_Mumbles_1972,ID16-30
+United Kingdom,Mumbles,51.56,-3.98,1973,16,31,United_Kingdom_Mumbles_1972,ID16-31
+United Kingdom,Mumbles,51.56,-3.98,1973,16,32,United_Kingdom_Mumbles_1972,ID16-32
+United Kingdom,Mumbles,51.56,-3.98,1973,16,33,United_Kingdom_Mumbles_1972,ID16-33
+United Kingdom,Mumbles,51.56,-3.98,1973,16,34,United_Kingdom_Mumbles_1972,ID16-34
+United Kingdom,Mumbles,51.56,-3.98,1973,16,35,United_Kingdom_Mumbles_1972,ID16-35
+United Kingdom,Mumbles,51.56,-3.98,1973,16,36,United_Kingdom_Mumbles_1972,ID16-36
+United Kingdom,Mumbles,51.56,-3.98,1973,16,37,United_Kingdom_Mumbles_1972,ID16-37
+United Kingdom,Mumbles,51.56,-3.98,1973,16,38,United_Kingdom_Mumbles_1972,ID16-38
+United Kingdom,Mumbles,51.56,-3.98,1973,16,39,United_Kingdom_Mumbles_1972,ID16-39
+United Kingdom,Mumbles,51.56,-3.98,1973,16,40,United_Kingdom_Mumbles_1972,ID16-40
+United Kingdom,Mumbles,51.56,-3.98,1973,16,41,United_Kingdom_Mumbles_1972,ID16-41
+United Kingdom,Mumbles,51.56,-3.98,1973,16,42,United_Kingdom_Mumbles_1972,ID16-42
+United Kingdom,Mumbles,51.56,-3.98,1973,16,43,United_Kingdom_Mumbles_1972,ID16-43
+United Kingdom,Mumbles,51.56,-3.98,1973,16,44,United_Kingdom_Mumbles_1972,ID16-44
+United Kingdom,Mumbles,51.56,-3.98,1973,16,45,United_Kingdom_Mumbles_1972,ID16-45
+United Kingdom,Mumbles,51.56,-3.98,1973,16,46,United_Kingdom_Mumbles_1972,ID16-46
+United Kingdom,Mumbles,51.56,-3.98,1973,16,47,United_Kingdom_Mumbles_1972,ID16-47
+United Kingdom,Mumbles,51.56,-3.98,1973,16,48,United_Kingdom_Mumbles_1972,ID16-48
+United Kingdom,Mumbles,51.56,-3.98,1973,16,49,United_Kingdom_Mumbles_1972,ID16-49
+United Kingdom,Mumbles,51.56,-3.98,1973,16,50,United_Kingdom_Mumbles_1972,ID16-50
+United Kingdom,Mumbles,51.56,-3.98,1973,16,51,United_Kingdom_Mumbles_1972,ID16-51
+United Kingdom,Mumbles,51.56,-3.98,1973,16,52,United_Kingdom_Mumbles_1972,ID16-52
+United Kingdom,Mumbles,51.56,-3.98,1973,16,53,United_Kingdom_Mumbles_1972,ID16-53
+United Kingdom,Mumbles,51.56,-3.98,1973,16,54,United_Kingdom_Mumbles_1972,ID16-54
+United Kingdom,Mumbles,51.56,-3.98,1973,16,55,United_Kingdom_Mumbles_1972,ID16-55
+United Kingdom,Mumbles,51.56,-3.98,1973,16,56,United_Kingdom_Mumbles_1972,ID16-56
+United Kingdom,Mumbles,51.56,-3.98,1973,16,57,United_Kingdom_Mumbles_1972,ID16-57
+United Kingdom,Mumbles,51.56,-3.98,1973,16,58,United_Kingdom_Mumbles_1972,ID16-58
+United Kingdom,Mumbles,51.56,-3.98,1973,16,59,United_Kingdom_Mumbles_1972,ID16-59
+United Kingdom,Mumbles,51.56,-3.98,1973,16,60,United_Kingdom_Mumbles_1972,ID16-60
+United Kingdom,Mumbles,51.56,-3.98,1973,16,61,United_Kingdom_Mumbles_1972,ID16-61
+United Kingdom,Mumbles,51.56,-3.98,1973,16,62,United_Kingdom_Mumbles_1972,ID16-62
+United Kingdom,Mumbles,51.56,-3.98,1973,16,63,United_Kingdom_Mumbles_1972,ID16-63
+United Kingdom,Mumbles,51.56,-3.98,1973,16,64,United_Kingdom_Mumbles_1972,ID16-64
+United Kingdom,Mumbles,51.56,-3.98,1973,16,65,United_Kingdom_Mumbles_1972,ID16-65
+United Kingdom,Mumbles,51.56,-3.98,1973,16,66,United_Kingdom_Mumbles_1972,ID16-66
+United Kingdom,Mumbles,51.56,-3.98,1973,16,67,United_Kingdom_Mumbles_1972,ID16-67
+United Kingdom,Mumbles,51.56,-3.98,1973,16,68,United_Kingdom_Mumbles_1972,ID16-68
+United Kingdom,Mumbles,51.56,-3.98,1973,16,69,United_Kingdom_Mumbles_1972,ID16-69
+United Kingdom,Mumbles,51.56,-3.98,1973,16,70,United_Kingdom_Mumbles_1972,ID16-70
+United Kingdom,Mumbles,51.56,-3.98,1973,16,71,United_Kingdom_Mumbles_1972,ID16-71
+United Kingdom,Mumbles,51.56,-3.98,1973,16,72,United_Kingdom_Mumbles_1972,ID16-72
+United Kingdom,Mumbles,51.56,-3.98,1973,16,73,United_Kingdom_Mumbles_1972,ID16-73
+United Kingdom,Mumbles,51.56,-3.98,1973,16,74,United_Kingdom_Mumbles_1972,ID16-74
+United Kingdom,Mumbles,51.56,-3.98,1973,16,75,United_Kingdom_Mumbles_1972,ID16-75
+United Kingdom,Mumbles,51.56,-3.98,1973,16,76,United_Kingdom_Mumbles_1972,ID16-76
+United Kingdom,Mumbles,51.56,-3.98,1973,16,77,United_Kingdom_Mumbles_1972,ID16-77
+United Kingdom,Mumbles,51.56,-3.98,1973,16,78,United_Kingdom_Mumbles_1972,ID16-78
+United Kingdom,Mumbles,51.56,-3.98,1973,16,79,United_Kingdom_Mumbles_1972,ID16-79
+United Kingdom,Mumbles,51.56,-3.98,1973,16,80,United_Kingdom_Mumbles_1972,ID16-80
+United Kingdom,Mumbles,51.56,-3.98,1973,16,81,United_Kingdom_Mumbles_1972,ID16-81
+United Kingdom,Mumbles,51.56,-3.98,1973,16,82,United_Kingdom_Mumbles_1972,ID16-82
+United Kingdom,Mumbles,51.56,-3.98,1973,16,83,United_Kingdom_Mumbles_1972,ID16-83
+United Kingdom,Mumbles,51.56,-3.98,1973,16,84,United_Kingdom_Mumbles_1972,ID16-84
+United Kingdom,Mumbles,51.56,-3.98,1973,16,85,United_Kingdom_Mumbles_1972,ID16-85
+United Kingdom,Mumbles,51.56,-3.98,1973,16,86,United_Kingdom_Mumbles_1972,ID16-86
+United Kingdom,Mumbles,51.56,-3.98,1973,16,87,United_Kingdom_Mumbles_1972,ID16-87
+United Kingdom,Mumbles,51.56,-3.98,1973,16,88,United_Kingdom_Mumbles_1972,ID16-88
+United Kingdom,Mumbles,51.56,-3.98,1973,16,89,United_Kingdom_Mumbles_1972,ID16-89
+United Kingdom,Mumbles,51.56,-3.98,1973,16,90,United_Kingdom_Mumbles_1972,ID16-90
+United Kingdom,Mumbles,51.56,-3.98,1973,16,91,United_Kingdom_Mumbles_1972,ID16-91
+United Kingdom,Mumbles,51.56,-3.98,1973,16,92,United_Kingdom_Mumbles_1972,ID16-92
+United Kingdom,Mumbles,51.56,-3.98,1973,16,93,United_Kingdom_Mumbles_1972,ID16-93
+United Kingdom,Mumbles,51.56,-3.98,1973,16,94,United_Kingdom_Mumbles_1972,ID16-94
+United Kingdom,Mumbles,51.56,-3.98,1973,16,95,United_Kingdom_Mumbles_1972,ID16-95
+United Kingdom,Voe,60.51,-1.39,1973,17,1,United_Kingdom_Shetland_Voe_1973,ID17-1
+United Kingdom,Voe,60.51,-1.39,1973,17,2,United_Kingdom_Shetland_Voe_1973,ID17-2
+United Kingdom,Voe,60.51,-1.39,1973,17,3,United_Kingdom_Shetland_Voe_1973,ID17-3
+United Kingdom,Voe,60.51,-1.39,1973,17,4,United_Kingdom_Shetland_Voe_1973,ID17-4
+United Kingdom,Voe,60.51,-1.39,1973,17,5,United_Kingdom_Shetland_Voe_1973,ID17-5
+United Kingdom,Voe,60.51,-1.39,1973,17,6,United_Kingdom_Shetland_Voe_1973,ID17-6
+United Kingdom,Voe,60.51,-1.39,1973,17,7,United_Kingdom_Shetland_Voe_1973,ID17-7
+United Kingdom,Voe,60.51,-1.39,1973,17,8,United_Kingdom_Shetland_Voe_1973,ID17-8
+United Kingdom,Voe,60.51,-1.39,1973,17,9,United_Kingdom_Shetland_Voe_1973,ID17-9
+United Kingdom,Voe,60.51,-1.39,1973,17,10,United_Kingdom_Shetland_Voe_1973,ID17-10
+United Kingdom,Voe,60.51,-1.39,1973,17,11,United_Kingdom_Shetland_Voe_1973,ID17-11
+United Kingdom,Voe,60.51,-1.39,1973,17,12,United_Kingdom_Shetland_Voe_1973,ID17-12
+United Kingdom,Voe,60.51,-1.39,1973,17,13,United_Kingdom_Shetland_Voe_1973,ID17-13
+United Kingdom,Voe,60.51,-1.39,1973,17,14,United_Kingdom_Shetland_Voe_1973,ID17-14
+United Kingdom,Voe,60.51,-1.39,1973,17,15,United_Kingdom_Shetland_Voe_1973,ID17-15
+United Kingdom,Voe,60.51,-1.39,1973,17,16,United_Kingdom_Shetland_Voe_1973,ID17-16
+United Kingdom,Voe,60.51,-1.39,1973,17,17,United_Kingdom_Shetland_Voe_1973,ID17-17
+United Kingdom,Voe,60.51,-1.39,1973,17,18,United_Kingdom_Shetland_Voe_1973,ID17-18
+United Kingdom,Voe,60.51,-1.39,1973,17,19,United_Kingdom_Shetland_Voe_1973,ID17-19
+United Kingdom,Voe,60.51,-1.39,1973,17,20,United_Kingdom_Shetland_Voe_1973,ID17-20
+United Kingdom,Voe,60.51,-1.39,1973,17,21,United_Kingdom_Shetland_Voe_1973,ID17-21
+United Kingdom,Voe,60.51,-1.39,1973,17,22,United_Kingdom_Shetland_Voe_1973,ID17-22
+United Kingdom,Voe,60.51,-1.39,1973,17,23,United_Kingdom_Shetland_Voe_1973,ID17-23
+United Kingdom,Voe,60.51,-1.39,1973,17,24,United_Kingdom_Shetland_Voe_1973,ID17-24
+United Kingdom,Voe,60.51,-1.39,1973,17,25,United_Kingdom_Shetland_Voe_1973,ID17-25
+United Kingdom,Voe,60.51,-1.39,1973,17,26,United_Kingdom_Shetland_Voe_1973,ID17-26
+United Kingdom,Voe,60.51,-1.39,1973,17,27,United_Kingdom_Shetland_Voe_1973,ID17-27
+United Kingdom,Voe,60.51,-1.39,1973,17,28,United_Kingdom_Shetland_Voe_1973,ID17-28
+United Kingdom,Voe,60.51,-1.39,1973,17,29,United_Kingdom_Shetland_Voe_1973,ID17-29
+United Kingdom,Voe,60.51,-1.39,1973,17,30,United_Kingdom_Shetland_Voe_1973,ID17-30
+United Kingdom,Voe,60.51,-1.39,1973,17,31,United_Kingdom_Shetland_Voe_1973,ID17-31
+United Kingdom,Voe,60.51,-1.39,1973,17,32,United_Kingdom_Shetland_Voe_1973,ID17-32
+United Kingdom,Voe,60.51,-1.39,1973,17,33,United_Kingdom_Shetland_Voe_1973,ID17-33
+United Kingdom,Voe,60.51,-1.39,1973,17,34,United_Kingdom_Shetland_Voe_1973,ID17-34
+United Kingdom,Voe,60.51,-1.39,1973,17,35,United_Kingdom_Shetland_Voe_1973,ID17-35
+United Kingdom,Voe,60.51,-1.39,1973,17,36,United_Kingdom_Shetland_Voe_1973,ID17-36
+United Kingdom,Voe,60.51,-1.39,1973,17,37,United_Kingdom_Shetland_Voe_1973,ID17-37
+United Kingdom,Voe,60.51,-1.39,1973,17,38,United_Kingdom_Shetland_Voe_1973,ID17-38
+United Kingdom,Voe,60.51,-1.39,1973,17,39,United_Kingdom_Shetland_Voe_1973,ID17-39
+United Kingdom,Voe,60.51,-1.39,1973,17,40,United_Kingdom_Shetland_Voe_1973,ID17-40
+United Kingdom,Voe,60.51,-1.39,1973,17,41,United_Kingdom_Shetland_Voe_1973,ID17-41
+United Kingdom,Voe,60.51,-1.39,1973,17,42,United_Kingdom_Shetland_Voe_1973,ID17-42
+United Kingdom,Voe,60.51,-1.39,1973,17,43,United_Kingdom_Shetland_Voe_1973,ID17-43
+United Kingdom,Voe,60.51,-1.39,1973,17,44,United_Kingdom_Shetland_Voe_1973,ID17-44
+United Kingdom,Voe,60.51,-1.39,1973,17,45,United_Kingdom_Shetland_Voe_1973,ID17-45
+United Kingdom,Voe,60.51,-1.39,1973,17,46,United_Kingdom_Shetland_Voe_1973,ID17-46
+United Kingdom,Voe,60.51,-1.39,1973,17,47,United_Kingdom_Shetland_Voe_1973,ID17-47
+United Kingdom,Voe,60.51,-1.39,1973,17,48,United_Kingdom_Shetland_Voe_1973,ID17-48
+United Kingdom,Voe,60.51,-1.39,1973,17,49,United_Kingdom_Shetland_Voe_1973,ID17-49
+United Kingdom,Voe,60.51,-1.39,1973,17,50,United_Kingdom_Shetland_Voe_1973,ID17-50
+United Kingdom,Voe,60.51,-1.39,1973,17,51,United_Kingdom_Shetland_Voe_1973,ID17-51
+United Kingdom,Voe,60.51,-1.39,1973,17,52,United_Kingdom_Shetland_Voe_1973,ID17-52
+United Kingdom,Voe,60.51,-1.39,1973,17,53,United_Kingdom_Shetland_Voe_1973,ID17-53
+United Kingdom,Voe,60.51,-1.39,1973,17,54,United_Kingdom_Shetland_Voe_1973,ID17-54
+United Kingdom,Voe,60.51,-1.39,1973,17,55,United_Kingdom_Shetland_Voe_1973,ID17-55
+United Kingdom,Voe,60.51,-1.39,1973,17,56,United_Kingdom_Shetland_Voe_1973,ID17-56
+United Kingdom,Voe,60.51,-1.39,1973,17,57,United_Kingdom_Shetland_Voe_1973,ID17-57
+United Kingdom,Voe,60.51,-1.39,1973,17,58,United_Kingdom_Shetland_Voe_1973,ID17-58
+United Kingdom,Voe,60.51,-1.39,1973,17,59,United_Kingdom_Shetland_Voe_1973,ID17-59
+United Kingdom,Voe,60.51,-1.39,1973,17,60,United_Kingdom_Shetland_Voe_1973,ID17-60
+United Kingdom,Voe,60.51,-1.39,1973,17,61,United_Kingdom_Shetland_Voe_1973,ID17-61
+United Kingdom,Voe,60.51,-1.39,1973,17,62,United_Kingdom_Shetland_Voe_1973,ID17-62
+United Kingdom,Voe,60.51,-1.39,1973,17,63,United_Kingdom_Shetland_Voe_1973,ID17-63
+United Kingdom,Voe,60.51,-1.39,1973,17,64,United_Kingdom_Shetland_Voe_1973,ID17-64
+United Kingdom,Voe,60.51,-1.39,1973,17,65,United_Kingdom_Shetland_Voe_1973,ID17-65
+United Kingdom,Voe,60.51,-1.39,1973,17,66,United_Kingdom_Shetland_Voe_1973,ID17-66
+United Kingdom,Voe,60.51,-1.39,1973,17,67,United_Kingdom_Shetland_Voe_1973,ID17-67
+United Kingdom,Voe,60.51,-1.39,1973,17,68,United_Kingdom_Shetland_Voe_1973,ID17-68
+United Kingdom,Voe,60.51,-1.39,1973,17,69,United_Kingdom_Shetland_Voe_1973,ID17-69
+United Kingdom,Voe,60.51,-1.39,1973,17,70,United_Kingdom_Shetland_Voe_1973,ID17-70
+United Kingdom,Voe,60.51,-1.39,1973,17,71,United_Kingdom_Shetland_Voe_1973,ID17-71
+United Kingdom,Voe,60.51,-1.39,1973,17,72,United_Kingdom_Shetland_Voe_1973,ID17-72
+United Kingdom,Voe,60.51,-1.39,1973,17,73,United_Kingdom_Shetland_Voe_1973,ID17-73
+United Kingdom,Voe,60.51,-1.39,1973,17,74,United_Kingdom_Shetland_Voe_1973,ID17-74
+United Kingdom,Voe,60.51,-1.39,1973,17,75,United_Kingdom_Shetland_Voe_1973,ID17-75
+United Kingdom,Voe,60.51,-1.39,1973,17,76,United_Kingdom_Shetland_Voe_1973,ID17-76
+United Kingdom,Voe,60.51,-1.39,1973,17,77,United_Kingdom_Shetland_Voe_1973,ID17-77
+United Kingdom,Voe,60.51,-1.39,1973,17,78,United_Kingdom_Shetland_Voe_1973,ID17-78
+United Kingdom,Voe,60.51,-1.39,1973,17,79,United_Kingdom_Shetland_Voe_1973,ID17-79
+United Kingdom,Voe,60.51,-1.39,1973,17,80,United_Kingdom_Shetland_Voe_1973,ID17-80
+United Kingdom,Voe,60.51,-1.39,1973,17,81,United_Kingdom_Shetland_Voe_1973,ID17-81
+United Kingdom,Voe,60.51,-1.39,1973,17,82,United_Kingdom_Shetland_Voe_1973,ID17-82
+United Kingdom,Voe,60.51,-1.39,1973,17,83,United_Kingdom_Shetland_Voe_1973,ID17-83
+United Kingdom,Voe,60.51,-1.39,1973,17,84,United_Kingdom_Shetland_Voe_1973,ID17-84
+United Kingdom,Voe,60.51,-1.39,1973,17,85,United_Kingdom_Shetland_Voe_1973,ID17-85
+United Kingdom,Voe,60.51,-1.39,1973,17,86,United_Kingdom_Shetland_Voe_1973,ID17-86
+United Kingdom,Voe,60.51,-1.39,1973,17,87,United_Kingdom_Shetland_Voe_1973,ID17-87
+United Kingdom,Voe,60.51,-1.39,1973,17,88,United_Kingdom_Shetland_Voe_1973,ID17-88
+United Kingdom,Voe,60.51,-1.39,1973,17,89,United_Kingdom_Shetland_Voe_1973,ID17-89
+United Kingdom,Voe,60.51,-1.39,1973,17,90,United_Kingdom_Shetland_Voe_1973,ID17-90
+United Kingdom,Voe,60.51,-1.39,1973,17,91,United_Kingdom_Shetland_Voe_1973,ID17-91
+United Kingdom,Voe,60.51,-1.39,1973,17,92,United_Kingdom_Shetland_Voe_1973,ID17-92
+United Kingdom,Voe,60.51,-1.39,1973,17,93,United_Kingdom_Shetland_Voe_1973,ID17-93
+United Kingdom,Voe,60.51,-1.39,1973,17,94,United_Kingdom_Shetland_Voe_1973,ID17-94
+United Kingdom,Voe,60.51,-1.39,1973,17,95,United_Kingdom_Shetland_Voe_1973,ID17-95
+United Kingdom,Voe,60.51,-1.39,1973,17,96,United_Kingdom_Shetland_Voe_1973,ID17-96
+United Kingdom,Voe,60.51,-1.39,1973,17,97,United_Kingdom_Shetland_Voe_1973,ID17-97
+United Kingdom,Voe,60.51,-1.39,1973,17,98,United_Kingdom_Shetland_Voe_1973,ID17-98
+United Kingdom,Voe,60.51,-1.39,1973,17,99,United_Kingdom_Shetland_Voe_1973,ID17-99
+United Kingdom,Voe,60.51,-1.39,1973,17,100,United_Kingdom_Shetland_Voe_1973,ID17-100
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,1,United_Kingdom_Shoreham_Harbour_1974,ID18-1
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,2,United_Kingdom_Shoreham_Harbour_1974,ID18-2
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,3,United_Kingdom_Shoreham_Harbour_1974,ID18-3
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,4,United_Kingdom_Shoreham_Harbour_1974,ID18-4
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,5,United_Kingdom_Shoreham_Harbour_1974,ID18-5
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,6,United_Kingdom_Shoreham_Harbour_1974,ID18-6
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,7,United_Kingdom_Shoreham_Harbour_1974,ID18-7
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,8,United_Kingdom_Shoreham_Harbour_1974,ID18-8
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,9,United_Kingdom_Shoreham_Harbour_1974,ID18-9
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,10,United_Kingdom_Shoreham_Harbour_1974,ID18-10
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,11,United_Kingdom_Shoreham_Harbour_1974,ID18-11
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,12,United_Kingdom_Shoreham_Harbour_1974,ID18-12
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,13,United_Kingdom_Shoreham_Harbour_1974,ID18-13
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,14,United_Kingdom_Shoreham_Harbour_1974,ID18-14
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,15,United_Kingdom_Shoreham_Harbour_1974,ID18-15
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,16,United_Kingdom_Shoreham_Harbour_1974,ID18-16
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,17,United_Kingdom_Shoreham_Harbour_1974,ID18-17
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,18,United_Kingdom_Shoreham_Harbour_1974,ID18-18
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,19,United_Kingdom_Shoreham_Harbour_1974,ID18-19
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,20,United_Kingdom_Shoreham_Harbour_1974,ID18-20
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,21,United_Kingdom_Shoreham_Harbour_1974,ID18-21
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,22,United_Kingdom_Shoreham_Harbour_1974,ID18-22
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,23,United_Kingdom_Shoreham_Harbour_1974,ID18-23
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,24,United_Kingdom_Shoreham_Harbour_1974,ID18-24
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,25,United_Kingdom_Shoreham_Harbour_1974,ID18-25
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,26,United_Kingdom_Shoreham_Harbour_1974,ID18-26
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,27,United_Kingdom_Shoreham_Harbour_1974,ID18-27
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,28,United_Kingdom_Shoreham_Harbour_1974,ID18-28
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,29,United_Kingdom_Shoreham_Harbour_1974,ID18-29
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,30,United_Kingdom_Shoreham_Harbour_1974,ID18-30
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,31,United_Kingdom_Shoreham_Harbour_1974,ID18-31
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,32,United_Kingdom_Shoreham_Harbour_1974,ID18-32
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,33,United_Kingdom_Shoreham_Harbour_1974,ID18-33
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,34,United_Kingdom_Shoreham_Harbour_1974,ID18-34
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,35,United_Kingdom_Shoreham_Harbour_1974,ID18-35
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,36,United_Kingdom_Shoreham_Harbour_1974,ID18-36
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,37,United_Kingdom_Shoreham_Harbour_1974,ID18-37
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,38,United_Kingdom_Shoreham_Harbour_1974,ID18-38
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,39,United_Kingdom_Shoreham_Harbour_1974,ID18-39
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,40,United_Kingdom_Shoreham_Harbour_1974,ID18-40
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,41,United_Kingdom_Shoreham_Harbour_1974,ID18-41
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,42,United_Kingdom_Shoreham_Harbour_1974,ID18-42
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,43,United_Kingdom_Shoreham_Harbour_1974,ID18-43
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,44,United_Kingdom_Shoreham_Harbour_1974,ID18-44
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,45,United_Kingdom_Shoreham_Harbour_1974,ID18-45
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,46,United_Kingdom_Shoreham_Harbour_1974,ID18-46
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,47,United_Kingdom_Shoreham_Harbour_1974,ID18-47
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,48,United_Kingdom_Shoreham_Harbour_1974,ID18-48
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,49,United_Kingdom_Shoreham_Harbour_1974,ID18-49
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,50,United_Kingdom_Shoreham_Harbour_1974,ID18-50
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,51,United_Kingdom_Shoreham_Harbour_1974,ID18-51
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,52,United_Kingdom_Shoreham_Harbour_1974,ID18-52
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,53,United_Kingdom_Shoreham_Harbour_1974,ID18-53
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,54,United_Kingdom_Shoreham_Harbour_1974,ID18-54
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,55,United_Kingdom_Shoreham_Harbour_1974,ID18-55
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,56,United_Kingdom_Shoreham_Harbour_1974,ID18-56
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,57,United_Kingdom_Shoreham_Harbour_1974,ID18-57
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,58,United_Kingdom_Shoreham_Harbour_1974,ID18-58
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,59,United_Kingdom_Shoreham_Harbour_1974,ID18-59
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,60,United_Kingdom_Shoreham_Harbour_1974,ID18-60
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,61,United_Kingdom_Shoreham_Harbour_1974,ID18-61
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,62,United_Kingdom_Shoreham_Harbour_1974,ID18-62
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,63,United_Kingdom_Shoreham_Harbour_1974,ID18-63
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,64,United_Kingdom_Shoreham_Harbour_1974,ID18-64
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,65,United_Kingdom_Shoreham_Harbour_1974,ID18-65
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,66,United_Kingdom_Shoreham_Harbour_1974,ID18-66
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,67,United_Kingdom_Shoreham_Harbour_1974,ID18-67
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,68,United_Kingdom_Shoreham_Harbour_1974,ID18-68
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,69,United_Kingdom_Shoreham_Harbour_1974,ID18-69
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,70,United_Kingdom_Shoreham_Harbour_1974,ID18-70
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,71,United_Kingdom_Shoreham_Harbour_1974,ID18-71
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,72,United_Kingdom_Shoreham_Harbour_1974,ID18-72
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,73,United_Kingdom_Shoreham_Harbour_1974,ID18-73
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,74,United_Kingdom_Shoreham_Harbour_1974,ID18-74
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,75,United_Kingdom_Shoreham_Harbour_1974,ID18-75
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,76,United_Kingdom_Shoreham_Harbour_1974,ID18-76
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,77,United_Kingdom_Shoreham_Harbour_1974,ID18-77
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,78,United_Kingdom_Shoreham_Harbour_1974,ID18-78
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,79,United_Kingdom_Shoreham_Harbour_1974,ID18-79
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,80,United_Kingdom_Shoreham_Harbour_1974,ID18-80
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,81,United_Kingdom_Shoreham_Harbour_1974,ID18-81
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,82,United_Kingdom_Shoreham_Harbour_1974,ID18-82
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,83,United_Kingdom_Shoreham_Harbour_1974,ID18-83
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,84,United_Kingdom_Shoreham_Harbour_1974,ID18-84
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,85,United_Kingdom_Shoreham_Harbour_1974,ID18-85
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,86,United_Kingdom_Shoreham_Harbour_1974,ID18-86
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,87,United_Kingdom_Shoreham_Harbour_1974,ID18-87
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,88,United_Kingdom_Shoreham_Harbour_1974,ID18-88
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,89,United_Kingdom_Shoreham_Harbour_1974,ID18-89
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,90,United_Kingdom_Shoreham_Harbour_1974,ID18-90
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,91,United_Kingdom_Shoreham_Harbour_1974,ID18-91
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,92,United_Kingdom_Shoreham_Harbour_1974,ID18-92
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,93,United_Kingdom_Shoreham_Harbour_1974,ID18-93
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,94,United_Kingdom_Shoreham_Harbour_1974,ID18-94
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,95,United_Kingdom_Shoreham_Harbour_1974,ID18-95
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,96,United_Kingdom_Shoreham_Harbour_1974,ID18-96
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,97,United_Kingdom_Shoreham_Harbour_1974,ID18-97
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,98,United_Kingdom_Shoreham_Harbour_1974,ID18-98
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,99,United_Kingdom_Shoreham_Harbour_1974,ID18-99
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,100,United_Kingdom_Shoreham_Harbour_1974,ID18-100
+United Kingdom,Shoreham (Harbour),50.82,-0.25,1974,18,101,United_Kingdom_Shoreham_Harbour_1974,ID18-101
+United Kingdom,St Abbs,55.89,-2.12,1971,19,1,United_Kingdom_St_Abbs_1970,ID19-1
+United Kingdom,St Abbs,55.89,-2.12,1971,19,2,United_Kingdom_St_Abbs_1970,ID19-2
+United Kingdom,St Abbs,55.89,-2.12,1971,19,3,United_Kingdom_St_Abbs_1970,ID19-3
+United Kingdom,St Abbs,55.89,-2.12,1971,19,4,United_Kingdom_St_Abbs_1970,ID19-4
+United Kingdom,St Abbs,55.89,-2.12,1971,19,5,United_Kingdom_St_Abbs_1970,ID19-5
+United Kingdom,St Abbs,55.89,-2.12,1971,19,6,United_Kingdom_St_Abbs_1970,ID19-6
+United Kingdom,St Abbs,55.89,-2.12,1971,19,7,United_Kingdom_St_Abbs_1970,ID19-7
+United Kingdom,St Abbs,55.89,-2.12,1971,19,8,United_Kingdom_St_Abbs_1970,ID19-8
+United Kingdom,St Abbs,55.89,-2.12,1971,19,9,United_Kingdom_St_Abbs_1970,ID19-9
+United Kingdom,St Abbs,55.89,-2.12,1971,19,10,United_Kingdom_St_Abbs_1970,ID19-10
+United Kingdom,St Abbs,55.89,-2.12,1971,19,11,United_Kingdom_St_Abbs_1970,ID19-11
+United Kingdom,St Abbs,55.89,-2.12,1971,19,12,United_Kingdom_St_Abbs_1970,ID19-12
+United Kingdom,St Abbs,55.89,-2.12,1971,19,13,United_Kingdom_St_Abbs_1970,ID19-13
+United Kingdom,St Abbs,55.89,-2.12,1971,19,14,United_Kingdom_St_Abbs_1970,ID19-14
+United Kingdom,St Abbs,55.89,-2.12,1971,19,15,United_Kingdom_St_Abbs_1970,ID19-15
+United Kingdom,St Abbs,55.89,-2.12,1971,19,16,United_Kingdom_St_Abbs_1970,ID19-16
+United Kingdom,St Abbs,55.89,-2.12,1971,19,17,United_Kingdom_St_Abbs_1970,ID19-17
+United Kingdom,St Abbs,55.89,-2.12,1971,19,18,United_Kingdom_St_Abbs_1970,ID19-18
+United Kingdom,St Abbs,55.89,-2.12,1971,19,19,United_Kingdom_St_Abbs_1970,ID19-19
+United Kingdom,St Abbs,55.89,-2.12,1971,19,20,United_Kingdom_St_Abbs_1970,ID19-20
+United Kingdom,St Abbs,55.89,-2.12,1971,19,21,United_Kingdom_St_Abbs_1970,ID19-21
+United Kingdom,St Abbs,55.89,-2.12,1971,19,22,United_Kingdom_St_Abbs_1970,ID19-22
+United Kingdom,St Abbs,55.89,-2.12,1971,19,23,United_Kingdom_St_Abbs_1970,ID19-23
+United Kingdom,St Abbs,55.89,-2.12,1971,19,24,United_Kingdom_St_Abbs_1970,ID19-24
+United Kingdom,St Abbs,55.89,-2.12,1971,19,25,United_Kingdom_St_Abbs_1970,ID19-25
+United Kingdom,St Abbs,55.89,-2.12,1971,19,26,United_Kingdom_St_Abbs_1970,ID19-26
+United Kingdom,St Abbs,55.89,-2.12,1971,19,27,United_Kingdom_St_Abbs_1970,ID19-27
+United Kingdom,St Abbs,55.89,-2.12,1971,19,28,United_Kingdom_St_Abbs_1970,ID19-28
+United Kingdom,St Abbs,55.89,-2.12,1971,19,29,United_Kingdom_St_Abbs_1970,ID19-29
+United Kingdom,St Abbs,55.89,-2.12,1971,19,30,United_Kingdom_St_Abbs_1970,ID19-30
+United Kingdom,St Abbs,55.89,-2.12,1971,19,31,United_Kingdom_St_Abbs_1970,ID19-31
+United Kingdom,St Abbs,55.89,-2.12,1971,19,32,United_Kingdom_St_Abbs_1970,ID19-32
+United Kingdom,St Abbs,55.89,-2.12,1971,19,33,United_Kingdom_St_Abbs_1970,ID19-33
+United Kingdom,St Abbs,55.89,-2.12,1971,19,34,United_Kingdom_St_Abbs_1970,ID19-34
+United Kingdom,St Abbs,55.89,-2.12,1971,19,35,United_Kingdom_St_Abbs_1970,ID19-35
+United Kingdom,St Abbs,55.89,-2.12,1971,19,36,United_Kingdom_St_Abbs_1970,ID19-36
+United Kingdom,St Abbs,55.89,-2.12,1971,19,37,United_Kingdom_St_Abbs_1970,ID19-37
+United Kingdom,St Abbs,55.89,-2.12,1971,19,38,United_Kingdom_St_Abbs_1970,ID19-38
+United Kingdom,St Abbs,55.89,-2.12,1971,19,39,United_Kingdom_St_Abbs_1970,ID19-39
+United Kingdom,St Abbs,55.89,-2.12,1971,19,40,United_Kingdom_St_Abbs_1970,ID19-40
+United Kingdom,St Abbs,55.89,-2.12,1971,19,41,United_Kingdom_St_Abbs_1970,ID19-41
+United Kingdom,St Abbs,55.89,-2.12,1971,19,42,United_Kingdom_St_Abbs_1970,ID19-42
+United Kingdom,St Abbs,55.89,-2.12,1971,19,43,United_Kingdom_St_Abbs_1970,ID19-43
+United Kingdom,St Abbs,55.89,-2.12,1971,19,44,United_Kingdom_St_Abbs_1970,ID19-44
+United Kingdom,St Abbs,55.89,-2.12,1971,19,45,United_Kingdom_St_Abbs_1970,ID19-45
+United Kingdom,St Abbs,55.89,-2.12,1971,19,46,United_Kingdom_St_Abbs_1970,ID19-46
+United Kingdom,St Abbs,55.89,-2.12,1971,19,47,United_Kingdom_St_Abbs_1970,ID19-47
+United Kingdom,St Abbs,55.89,-2.12,1971,19,48,United_Kingdom_St_Abbs_1970,ID19-48
+United Kingdom,St Abbs,55.89,-2.12,1971,19,49,United_Kingdom_St_Abbs_1970,ID19-49
+United Kingdom,St Abbs,55.89,-2.12,1971,19,50,United_Kingdom_St_Abbs_1970,ID19-50
+United Kingdom,St Abbs,55.89,-2.12,1971,19,51,United_Kingdom_St_Abbs_1970,ID19-51
+United Kingdom,St Abbs,55.89,-2.12,1971,19,52,United_Kingdom_St_Abbs_1970,ID19-52
+United Kingdom,St Abbs,55.89,-2.12,1971,19,53,United_Kingdom_St_Abbs_1970,ID19-53
+United Kingdom,St Abbs,55.89,-2.12,1971,19,54,United_Kingdom_St_Abbs_1970,ID19-54
+United Kingdom,St Abbs,55.89,-2.12,1971,19,55,United_Kingdom_St_Abbs_1970,ID19-55
+United Kingdom,St Abbs,55.89,-2.12,1971,19,56,United_Kingdom_St_Abbs_1970,ID19-56
+United Kingdom,St Abbs,55.89,-2.12,1971,19,57,United_Kingdom_St_Abbs_1970,ID19-57
+United Kingdom,St Abbs,55.89,-2.12,1971,19,58,United_Kingdom_St_Abbs_1970,ID19-58
+United Kingdom,St Abbs,55.89,-2.12,1971,19,59,United_Kingdom_St_Abbs_1970,ID19-59
+United Kingdom,St Abbs,55.89,-2.12,1971,19,60,United_Kingdom_St_Abbs_1970,ID19-60
+United Kingdom,St Abbs,55.89,-2.12,1971,19,61,United_Kingdom_St_Abbs_1970,ID19-61
+United Kingdom,St Abbs,55.89,-2.12,1971,19,62,United_Kingdom_St_Abbs_1970,ID19-62
+United Kingdom,St Abbs,55.89,-2.12,1971,19,63,United_Kingdom_St_Abbs_1970,ID19-63
+United Kingdom,St Abbs,55.89,-2.12,1971,19,64,United_Kingdom_St_Abbs_1970,ID19-64
+United Kingdom,St Abbs,55.89,-2.12,1971,19,65,United_Kingdom_St_Abbs_1970,ID19-65
+United Kingdom,St Abbs,55.89,-2.12,1971,19,66,United_Kingdom_St_Abbs_1970,ID19-66
+United Kingdom,St Abbs,55.89,-2.12,1971,19,67,United_Kingdom_St_Abbs_1970,ID19-67
+United Kingdom,St Abbs,55.89,-2.12,1971,19,68,United_Kingdom_St_Abbs_1970,ID19-68
+United Kingdom,St Abbs,55.89,-2.12,1971,19,69,United_Kingdom_St_Abbs_1970,ID19-69
+United Kingdom,St Abbs,55.89,-2.12,1971,19,70,United_Kingdom_St_Abbs_1970,ID19-70
+United Kingdom,St Abbs,55.89,-2.12,1971,19,71,United_Kingdom_St_Abbs_1970,ID19-71
+United Kingdom,St Abbs,55.89,-2.12,1971,19,72,United_Kingdom_St_Abbs_1970,ID19-72
+United Kingdom,St Abbs,55.89,-2.12,1971,19,73,United_Kingdom_St_Abbs_1970,ID19-73
+United Kingdom,St Abbs,55.89,-2.12,1971,19,74,United_Kingdom_St_Abbs_1970,ID19-74
+United Kingdom,St Abbs,55.89,-2.12,1971,19,75,United_Kingdom_St_Abbs_1970,ID19-75
+United Kingdom,St Abbs,55.89,-2.12,1971,19,76,United_Kingdom_St_Abbs_1970,ID19-76
+United Kingdom,St Abbs,55.89,-2.12,1971,19,77,United_Kingdom_St_Abbs_1970,ID19-77
+United Kingdom,St Abbs,55.89,-2.12,1971,19,78,United_Kingdom_St_Abbs_1970,ID19-78
+United Kingdom,St Abbs,55.89,-2.12,1971,19,79,United_Kingdom_St_Abbs_1970,ID19-79
+United Kingdom,St Abbs,55.89,-2.12,1971,19,80,United_Kingdom_St_Abbs_1970,ID19-80
+United Kingdom,St Abbs,55.89,-2.12,1971,19,81,United_Kingdom_St_Abbs_1970,ID19-81
+United Kingdom,St Abbs,55.89,-2.12,1971,19,82,United_Kingdom_St_Abbs_1970,ID19-82
+United Kingdom,St Abbs,55.89,-2.12,1971,19,83,United_Kingdom_St_Abbs_1970,ID19-83
+United Kingdom,St Abbs,55.89,-2.12,1971,19,84,United_Kingdom_St_Abbs_1970,ID19-84
+United Kingdom,St Abbs,55.89,-2.12,1971,19,85,United_Kingdom_St_Abbs_1970,ID19-85
+United Kingdom,St Abbs,55.89,-2.12,1971,19,86,United_Kingdom_St_Abbs_1970,ID19-86
+United Kingdom,St Abbs,55.89,-2.12,1971,19,87,United_Kingdom_St_Abbs_1970,ID19-87
+United Kingdom,St Abbs,55.89,-2.12,1971,19,88,United_Kingdom_St_Abbs_1970,ID19-88
+United Kingdom,St Abbs,55.89,-2.12,1971,19,89,United_Kingdom_St_Abbs_1970,ID19-89
+United Kingdom,St Abbs,55.89,-2.12,1971,19,90,United_Kingdom_St_Abbs_1970,ID19-90
+United Kingdom,St Abbs,55.89,-2.12,1971,19,91,United_Kingdom_St_Abbs_1970,ID19-91
+United Kingdom,St Abbs,55.89,-2.12,1971,19,92,United_Kingdom_St_Abbs_1970,ID19-92
+United Kingdom,St Abbs,55.89,-2.12,1971,19,93,United_Kingdom_St_Abbs_1970,ID19-93
+United Kingdom,St Abbs,55.89,-2.12,1971,19,94,United_Kingdom_St_Abbs_1970,ID19-94
+United Kingdom,St Abbs,55.89,-2.12,1971,19,95,United_Kingdom_St_Abbs_1970,ID19-95
+United Kingdom,St Abbs,55.89,-2.12,1971,19,96,United_Kingdom_St_Abbs_1970,ID19-96
+United Kingdom,St Abbs,55.89,-2.12,1971,19,97,United_Kingdom_St_Abbs_1970,ID19-97
+United Kingdom,St Abbs,55.89,-2.12,1971,19,98,United_Kingdom_St_Abbs_1970,ID19-98
+United Kingdom,St Abbs,55.89,-2.12,1971,19,99,United_Kingdom_St_Abbs_1970,ID19-99
+United Kingdom,St Abbs,55.89,-2.12,1971,19,100,United_Kingdom_St_Abbs_1970,ID19-100
+United Kingdom,St Abbs,55.89,-2.12,1971,19,101,United_Kingdom_St_Abbs_1970,ID19-101
+United Kingdom,St Abbs,55.89,-2.12,1971,19,102,United_Kingdom_St_Abbs_1970,ID19-102
