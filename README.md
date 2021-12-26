@@ -1,4 +1,5 @@
-## Project repository for: **Carbonate system mediated shape shift in intertidal predatory gastropod**
+Project repository for: 
+**Carbonate system mediated shape shift in intertidal predatory gastropod**
 
 Included are:
 - RScripts used in the data analysis labelled in sequence of the analysis.
