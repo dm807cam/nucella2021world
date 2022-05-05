@@ -1,5 +1,7 @@
+[![DOI](https://zenodo.org/badge/441889677.svg)](https://zenodo.org/badge/latestdoi/441889677)
+
 Project repository for: 
-**Evidence for carbonate system mediated shape shift in intertidal predatory gastropod**
+**Evidence for carbonate system mediated shape shift in intertidal predatory gastropod** published here: [10.3389/fmars.2022.894182](https://doi.org/10.3389/fmars.2022.894182).
 
 Included are:
 - RScripts used in the data analysis labelled in sequence of the analysis.
